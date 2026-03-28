@@ -6,6 +6,7 @@ import { CircleCard } from "./components/CircleCard";
 import { SearchBar } from "./components/SearchBar";
 import { UnitFilter } from "./components/CharacterFilter";
 import { ArenaFilter } from "./components/ArenaFilter";
+import { FloorMap } from "./components/FloorMap";
 import { TabNav, type Tab } from "./components/TabNav";
 
 // スペース番号でソート（ア-01, ア-02, ... イ-01, ...）
@@ -83,44 +84,50 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-gray-50 pb-16">
-      <header className="sticky top-0 z-10 space-y-2 bg-gray-50 px-3 pt-3 pb-2 shadow-sm">
-        <h1 className="text-center text-base font-bold text-gray-800">
-          SSF10 サークルチェッカー
-        </h1>
-        <SearchBar value={search} onChange={setSearch} />
-        <ArenaFilter
-          arenas={ARENA_ORDER}
-          selected={selectedArena}
-          onSelect={setSelectedArena}
-        />
-        <UnitFilter
-          units={allUnits}
-          selected={selectedUnit}
-          onSelect={setSelectedUnit}
-        />
-        <p className="text-center text-xs text-gray-400">
-          {filtered.length} / {circles.length} サークル
-        </p>
-      </header>
-
-      <main className="space-y-2 px-3 pt-2">
-        {filtered.length === 0 ? (
-          <p className="py-12 text-center text-sm text-gray-400">
-            {tab === "bookmarks"
-              ? "ブックマークがありません"
-              : "該当するサークルがありません"}
-          </p>
-        ) : (
-          filtered.map((c) => (
-            <CircleCard
-              key={c.id}
-              circle={c}
-              isBookmarked={isBookmarked(c.id)}
-              onToggleBookmark={toggle}
+      {tab === "map" ? (
+        <FloorMap circles={circles} bookmarks={bookmarks} />
+      ) : (
+        <>
+          <header className="sticky top-0 z-10 space-y-2 bg-gray-50 px-3 pt-3 pb-2 shadow-sm">
+            <h1 className="text-center text-base font-bold text-gray-800">
+              SSF10 サークルチェッカー
+            </h1>
+            <SearchBar value={search} onChange={setSearch} />
+            <ArenaFilter
+              arenas={ARENA_ORDER}
+              selected={selectedArena}
+              onSelect={setSelectedArena}
             />
-          ))
-        )}
-      </main>
+            <UnitFilter
+              units={allUnits}
+              selected={selectedUnit}
+              onSelect={setSelectedUnit}
+            />
+            <p className="text-center text-xs text-gray-400">
+              {filtered.length} / {circles.length} サークル
+            </p>
+          </header>
+
+          <main className="space-y-2 px-3 pt-2">
+            {filtered.length === 0 ? (
+              <p className="py-12 text-center text-sm text-gray-400">
+                {tab === "bookmarks"
+                  ? "ブックマークがありません"
+                  : "該当するサークルがありません"}
+              </p>
+            ) : (
+              filtered.map((c) => (
+                <CircleCard
+                  key={c.id}
+                  circle={c}
+                  isBookmarked={isBookmarked(c.id)}
+                  onToggleBookmark={toggle}
+                />
+              ))
+            )}
+          </main>
+        </>
+      )}
 
       <TabNav
         active={tab}
