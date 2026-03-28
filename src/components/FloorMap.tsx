@@ -66,7 +66,6 @@ export function FloorMap({ circles, bookmarks, onToggleBookmark }: FloorMapProps
     if (!selectedRect) return {};
     const cellCx = (selectedRect.x + selectedRect.w / 2) * scale;
     const cellBottom = (selectedRect.y + selectedRect.h) * scale;
-    const cellTop = selectedRect.y * scale;
     const popupW = 220;
 
     // 左右: セル中心を基準に、画面内に収める
