@@ -18,6 +18,10 @@ const UNIT_COLORS: Record<string, string> = {
   "コメティック": "bg-amber-100 text-amber-900",
 };
 
+function cutImageUrl(space: string): string {
+  return `/cuts/${encodeURIComponent(space)}.webp`;
+}
+
 export function CircleCard({
   circle,
   isBookmarked,
@@ -129,6 +133,21 @@ export function CircleCard({
             </div>
           )}
         </div>
+
+        {/* サークルカットサムネイル */}
+        {circle.space && (
+          <img
+            src={cutImageUrl(circle.space)}
+            alt={`${circle.name} サークルカット`}
+            loading="lazy"
+            className="shrink-0 rounded border border-gray-200 object-cover"
+            width={72}
+            height={72}
+            onError={(e) => {
+              (e.target as HTMLImageElement).style.display = "none";
+            }}
+          />
+        )}
       </div>
     </div>
   );
