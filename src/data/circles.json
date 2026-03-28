@@ -1,0 +1,5051 @@
+[
+  {
+    "id": 1,
+    "name": "愛を知る剣",
+    "penName": "ヌナギモ",
+    "produceIdol": "大崎甘奈",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甘奈",
+      "大崎甜花"
+    ],
+    "links": {},
+    "space": "エ-04"
+  },
+  {
+    "id": 2,
+    "name": "あおぞら保健室",
+    "penName": "鴨居リョウ",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "緋田美琴"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/71823501",
+      "twitter": "https://x.com/kamoiryo"
+    },
+    "space": "キ-25"
+  },
+  {
+    "id": 3,
+    "name": "アカウントB",
+    "penName": "B",
+    "produceIdol": "杜野凛世",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "杜野凛世",
+      "風野灯織",
+      "三峰結華"
+    ],
+    "links": {
+      "twitter": "https://x.com/B_bi3rd"
+    },
+    "space": "ウ-26"
+  },
+  {
+    "id": 4,
+    "name": "あかちゃんの部屋",
+    "penName": "baby",
+    "produceIdol": "桑山千雪",
+    "unit": "アルストロメリア",
+    "characters": [
+      "桑山千雪"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/122730249",
+      "twitter": "https://x.com/0301baby141615"
+    },
+    "space": "エ-13"
+  },
+  {
+    "id": 5,
+    "name": "あきゅら",
+    "penName": "ぴよぴよ",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "郁田はるき",
+      "緋田美琴",
+      "櫻木真乃"
+    ],
+    "links": {
+      "pixiv": "http://www.pixiv.net/member.php?id=145928",
+      "twitter": "https://x.com/piyopiyo_yaki"
+    },
+    "space": "キ-07"
+  },
+  {
+    "id": 6,
+    "name": "あさくライオン",
+    "penName": "こぼ",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/member.php?id=21795081",
+      "twitter": "https://x.com/AsakuLion"
+    },
+    "space": "オ-19"
+  },
+  {
+    "id": 7,
+    "name": "朝凪竜人",
+    "penName": "海姫",
+    "produceIdol": "郁田はるき",
+    "unit": "コメティック",
+    "characters": [
+      "郁田はるき",
+      "七草はづき",
+      "西城樹里",
+      "杜野凛世"
+    ],
+    "links": {
+      "twitter": "https://x.com/umihime_irir_3"
+    },
+    "space": "ク-21"
+  },
+  {
+    "id": 8,
+    "name": "朝寝愛好会",
+    "penName": "朝寝",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "郁田はるき",
+      "樋口円香"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/36161071",
+      "twitter": "https://x.com/liru283"
+    },
+    "space": "キ-12"
+  },
+  {
+    "id": 9,
+    "name": "足のこどう",
+    "penName": "くるぶし",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸",
+      "浅倉透",
+      "樋口円香",
+      "市川雛菜"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/15339593",
+      "twitter": "https://x.com/kurubushi888"
+    },
+    "space": "カ-27"
+  },
+  {
+    "id": 10,
+    "name": "アダックス東京工場",
+    "penName": "大旋風鬼オパオパ",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "風野灯織",
+      "八宮めぐる",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/5918711"
+    },
+    "space": "キ-24"
+  },
+  {
+    "id": 11,
+    "name": "徒花アーコレード",
+    "penName": "白坂光桜",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子"
+    ],
+    "links": {
+      "twitter": "https://x.com/m1oxsh"
+    },
+    "space": "エ-24"
+  },
+  {
+    "id": 12,
+    "name": "@e.com",
+    "penName": "ae",
+    "produceIdol": "樋口円香",
+    "unit": "ノクチル",
+    "characters": [
+      "樋口円香"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/62381752",
+      "twitter": "https://x.com/ae_iueo"
+    },
+    "space": "カ-06"
+  },
+  {
+    "id": 13,
+    "name": "あの波打ち際",
+    "penName": "わたくし",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "田中摩美々",
+      "緋田美琴",
+      "七草はづき"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/58915363",
+      "twitter": "https://x.com/watakushi_P"
+    },
+    "space": "イ-14"
+  },
+  {
+    "id": 14,
+    "name": "あのひや",
+    "penName": "anohi",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "櫻木真乃",
+      "白瀬咲耶",
+      "月岡恋鐘",
+      "三峰結華",
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/anohi000"
+    },
+    "space": "イ-21"
+  },
+  {
+    "id": 15,
+    "name": "アフターフェスティバル",
+    "penName": "アカヤ",
+    "produceIdol": "月岡恋鐘",
+    "unit": "アンティーカ",
+    "characters": [
+      "月岡恋鐘",
+      "白瀬咲耶",
+      "田中摩美々",
+      "三峰結華"
+    ],
+    "links": {
+      "twitter": "https://x.com/Akaya_58971"
+    },
+    "space": "ア-29"
+  },
+  {
+    "id": 16,
+    "name": "雨のちあした",
+    "penName": "雨崎",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子"
+    ],
+    "links": {
+      "twitter": "https://x.com/amasaki_111"
+    },
+    "space": "エ-31"
+  },
+  {
+    "id": 17,
+    "name": "謝りそうで、謝らない",
+    "penName": "由蘭",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "櫻木真乃",
+      "白瀬咲耶",
+      "田中摩美々",
+      "月岡恋鐘"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/175376",
+      "twitter": "https://x.com/linemarkeryuran"
+    },
+    "space": "ア-51"
+  },
+  {
+    "id": 18,
+    "name": "有明造園",
+    "penName": "有明灘",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "樋口円香"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/2696428",
+      "twitter": "https://x.com/S_ariakesis616"
+    },
+    "space": "オ-24"
+  },
+  {
+    "id": 19,
+    "name": "arcaico",
+    "penName": "流留水（うすい）",
+    "produceIdol": "杜野凛世",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "杜野凛世"
+    ],
+    "links": {
+      "twitter": "https://x.com/good29point"
+    },
+    "space": "ウ-27"
+  },
+  {
+    "id": 20,
+    "name": "餡ころ処",
+    "penName": "ボタ餅",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "樋口円香",
+      "福丸小糸",
+      "市川雛菜"
+    ],
+    "links": {
+      "pixiv": "https://pixiv.net/users/10957636",
+      "twitter": "https://x.com/bota_ohagi04"
+    },
+    "space": "ケ-32"
+  },
+  {
+    "id": 21,
+    "name": "伊佐ねずみの生息地",
+    "penName": "伊佐らっとる",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "田中摩美々"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/member.php?id=6269307",
+      "twitter": "https://x.com/isarattrap"
+    },
+    "space": "ア-52"
+  },
+  {
+    "id": 22,
+    "name": "123ぷろだくしょん第1ネコチャン課",
+    "penName": "いずみ",
+    "produceIdol": "大崎甜花",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甜花",
+      "大崎甘奈",
+      "福丸小糸",
+      "月岡恋鐘"
+    ],
+    "links": {
+      "other": "https://izmcos.booth.pm/",
+      "twitter": "https://x.com/izmcos"
+    },
+    "space": "ウ-35"
+  },
+  {
+    "id": 23,
+    "name": "いちご屋さん",
+    "penName": "來世",
+    "produceIdol": "郁田はるき",
+    "unit": "コメティック",
+    "characters": [
+      "郁田はるき",
+      "七草はづき",
+      "鈴木羽那",
+      "大崎甜花"
+    ],
+    "links": {},
+    "space": "ク-25"
+  },
+  {
+    "id": 24,
+    "name": "1年3組たかはる",
+    "penName": "たかはる",
+    "produceIdol": "芹沢あさひ",
+    "unit": "ストレイライト",
+    "characters": [
+      "芹沢あさひ",
+      "黛冬優子",
+      "斑鳩ルカ"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/116875",
+      "twitter": "https://x.com/takaharu_TI"
+    },
+    "space": "オ-12"
+  },
+  {
+    "id": 25,
+    "name": "一杯のかに",
+    "penName": "蟹間健次",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "三峰結華",
+      "樋口円香",
+      "福丸小糸",
+      "市川雛菜"
+    ],
+    "links": {
+      "twitter": "https://x.com/3pk2_"
+    },
+    "space": "オ-31"
+  },
+  {
+    "id": 26,
+    "name": "INUZINI",
+    "penName": "神崎",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき"
+    ],
+    "links": {},
+    "space": "ケ-40"
+  },
+  {
+    "id": 27,
+    "name": "イリオモテヤマタタンゴ",
+    "penName": "マタタンゴ",
+    "produceIdol": "風野灯織",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "風野灯織",
+      "八宮めぐる",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "twitter": "https://x.com/ngongo1250"
+    },
+    "space": "ア-12"
+  },
+  {
+    "id": 28,
+    "name": "いろは坂",
+    "penName": "八坂アイト",
+    "produceIdol": "八宮めぐる",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "八宮めぐる",
+      "大崎甘奈"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/78840941",
+      "twitter": "https://x.com/Indigo_Eight"
+    },
+    "space": "ア-22"
+  },
+  {
+    "id": 29,
+    "name": "INtime",
+    "penName": "めぐるみる",
+    "produceIdol": "有栖川夏葉",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "有栖川夏葉"
+    ],
+    "links": {
+      "pixiv": "https://touch.pixiv.net/member.php?id=14589647",
+      "twitter": "https://x.com/megurumiru"
+    },
+    "space": "ウ-18"
+  },
+  {
+    "id": 30,
+    "name": "魚魚家家",
+    "penName": "ｎ。",
+    "produceIdol": "樋口円香",
+    "unit": "ノクチル",
+    "characters": [
+      "樋口円香",
+      "浅倉透",
+      "福丸小糸",
+      "市川雛菜"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/121409224",
+      "twitter": "https://x.com/nnuuumumum"
+    },
+    "space": "カ-07"
+  },
+  {
+    "id": 31,
+    "name": "うきうき根粒菌ランド",
+    "penName": "新訳リゾビウム",
+    "produceIdol": "西城樹里",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "西城樹里",
+      "有栖川夏葉",
+      "小宮果穂",
+      "杜野凛世",
+      "園田智代子"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/83922619",
+      "twitter": "https://x.com/Rhizobium10"
+    },
+    "space": "ウ-13"
+  },
+  {
+    "id": 32,
+    "name": "嘘シャニマス聖地",
+    "penName": "嘘シャニマス聖地",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸",
+      "大崎甜花"
+    ],
+    "links": {
+      "other": "https://note.com/shinyplace283",
+      "twitter": "https://x.com/shinyplace283"
+    },
+    "space": "カ-21"
+  },
+  {
+    "id": 33,
+    "name": "うだつの",
+    "penName": "うえこ",
+    "produceIdol": "鈴木羽那",
+    "unit": "コメティック",
+    "characters": [
+      "鈴木羽那",
+      "郁田はるき"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/16029997",
+      "twitter": "https://x.com/a_a_a_aism"
+    },
+    "space": "ケ-05"
+  },
+  {
+    "id": 34,
+    "name": "宇宙うさぎ配達員",
+    "penName": "おはね",
+    "produceIdol": "郁田はるき",
+    "unit": "コメティック",
+    "characters": [
+      "郁田はるき",
+      "鈴木羽那",
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/oOhaneOo_"
+    },
+    "space": "ケ-03"
+  },
+  {
+    "id": 35,
+    "name": "宇丼工房",
+    "penName": "古河",
+    "produceIdol": "月岡恋鐘",
+    "unit": "アンティーカ",
+    "characters": [
+      "月岡恋鐘",
+      "三峰結華"
+    ],
+    "links": {},
+    "space": "ア-28"
+  },
+  {
+    "id": 36,
+    "name": "うみりばー",
+    "penName": "かわっしー",
+    "produceIdol": "園田智代子",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "園田智代子",
+      "樋口円香"
+    ],
+    "links": {
+      "twitter": "https://x.com/Kwc_10psy"
+    },
+    "space": "ウ-03"
+  },
+  {
+    "id": 37,
+    "name": "烏目技研",
+    "penName": "烏目紅研",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "緋田美琴"
+    ],
+    "links": {
+      "twitter": "https://x.com/UME_D_I"
+    },
+    "space": "ク-04"
+  },
+  {
+    "id": 38,
+    "name": "エクレアおいしい",
+    "penName": "あおい",
+    "produceIdol": "緋田美琴",
+    "unit": "シーズ",
+    "characters": [
+      "緋田美琴",
+      "七草にちか"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/3371281",
+      "twitter": "https://x.com/xxxaoiaoi"
+    },
+    "space": "キ-06"
+  },
+  {
+    "id": 39,
+    "name": "N1",
+    "penName": "maro",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子",
+      "市川雛菜"
+    ],
+    "links": {
+      "twitter": "https://x.com/maro2837"
+    },
+    "space": "エ-33"
+  },
+  {
+    "id": 40,
+    "name": "f/0.95",
+    "penName": "ixtl",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "樋口円香",
+      "福丸小糸",
+      "市川雛菜"
+    ],
+    "links": {
+      "twitter": "https://x.com/ixtl416"
+    },
+    "space": "オ-29"
+  },
+  {
+    "id": 41,
+    "name": "ELL Live",
+    "penName": "かえるゑる",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "七草はづき"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/7336636",
+      "twitter": "https://x.com/yuko_ka_eru"
+    },
+    "space": "キ-17"
+  },
+  {
+    "id": 42,
+    "name": "Angel cornet",
+    "penName": "心根",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸",
+      "樋口円香"
+    ],
+    "links": {
+      "twitter": "https://x.com/kok0rone"
+    },
+    "space": "カ-19"
+  },
+  {
+    "id": 43,
+    "name": "おいでませ理科準備室",
+    "penName": "骨格標本",
+    "produceIdol": "西城樹里",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "西城樹里",
+      "園田智代子"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/63014054",
+      "twitter": "https://x.com/fracture1110"
+    },
+    "space": "イ-34"
+  },
+  {
+    "id": 44,
+    "name": "お加算食堂",
+    "penName": "加算",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "樋口円香",
+      "芹沢あさひ"
+    ],
+    "links": {
+      "twitter": "https://x.com/ka3aNn"
+    },
+    "space": "イ-18"
+  },
+  {
+    "id": 45,
+    "name": "おくたぐらむ",
+    "penName": "くろんてゃ",
+    "produceIdol": "緋田美琴",
+    "unit": "シーズ",
+    "characters": [
+      "緋田美琴",
+      "七草にちか",
+      "七草はづき"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/100706064",
+      "twitter": "https://x.com/naowaan96"
+    },
+    "space": "キ-05"
+  },
+  {
+    "id": 46,
+    "name": "おこめのようなもの",
+    "penName": "かえら",
+    "produceIdol": "鈴木羽那",
+    "unit": "コメティック",
+    "characters": [
+      "鈴木羽那"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/52001518",
+      "twitter": "https://x.com/kaera_1341"
+    },
+    "space": "ケ-12"
+  },
+  {
+    "id": 47,
+    "name": "お魚屋産",
+    "penName": "うおうお",
+    "produceIdol": "鈴木羽那",
+    "unit": "コメティック",
+    "characters": [
+      "鈴木羽那",
+      "黛冬優子",
+      "七草にちか",
+      "大崎甜花",
+      "園田智代子"
+    ],
+    "links": {
+      "twitter": "https://x.com/uouo_kuma"
+    },
+    "space": "ケ-14"
+  },
+  {
+    "id": 48,
+    "name": "おしゃべり心臓",
+    "penName": "牛骨てゑる",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/68502423",
+      "twitter": "https://x.com/coweelll"
+    },
+    "space": "キ-15"
+  },
+  {
+    "id": 49,
+    "name": "おしるこPA",
+    "penName": "あずき",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "樋口円香"
+    ],
+    "links": {
+      "twitter": "https://x.com/Azuki_Coo"
+    },
+    "space": "オ-28"
+  },
+  {
+    "id": 50,
+    "name": "おそうじ記録",
+    "penName": "ルンバ",
+    "produceIdol": "樋口円香",
+    "unit": "ノクチル",
+    "characters": [
+      "樋口円香",
+      "浅倉透"
+    ],
+    "links": {
+      "twitter": "https://x.com/runba068"
+    },
+    "space": "カ-13"
+  },
+  {
+    "id": 51,
+    "name": "御庭洗",
+    "penName": "育花雨",
+    "produceIdol": "芹沢あさひ",
+    "unit": "ストレイライト",
+    "characters": [
+      "芹沢あさひ"
+    ],
+    "links": {
+      "twitter": "https://x.com/ikukau"
+    },
+    "space": "オ-06"
+  },
+  {
+    "id": 52,
+    "name": "おのみ屋",
+    "penName": "小野宮ワタル",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "風野灯織"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/98768700",
+      "twitter": "https://x.com/onomiya_wataru"
+    },
+    "space": "イ-30"
+  },
+  {
+    "id": 53,
+    "name": "おばけのパンチ",
+    "penName": "阿今井もこ",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "三峰結華",
+      "福丸小糸"
+    ],
+    "links": {
+      "twitter": "https://x.com/3moon_21v"
+    },
+    "space": "イ-17"
+  },
+  {
+    "id": 54,
+    "name": "おふとんだいすき",
+    "penName": "ぱぴるす",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "鈴木羽那",
+      "郁田はるき"
+    ],
+    "links": {
+      "other": "https://ofuton-daisuki.booth.pm/",
+      "twitter": "https://x.com/pprs08"
+    },
+    "space": "ク-06"
+  },
+  {
+    "id": 55,
+    "name": "おもちカンパニー",
+    "penName": "ピラピラ",
+    "produceIdol": "市川雛菜",
+    "unit": "ノクチル",
+    "characters": [
+      "市川雛菜",
+      "大崎甘奈",
+      "月岡恋鐘",
+      "三峰結華",
+      "斑鳩ルカ",
+      "八宮めぐる"
+    ],
+    "links": {
+      "other": "https://mochihina.booth.pm/",
+      "twitter": "https://x.com/pirararalarala"
+    },
+    "space": "カ-30"
+  },
+  {
+    "id": 56,
+    "name": "おもち製作所",
+    "penName": "わらびもち",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/1397391",
+      "twitter": "https://x.com/kmr_oyuwari"
+    },
+    "space": "カ-26"
+  },
+  {
+    "id": 57,
+    "name": "快晴予報",
+    "penName": "蟹",
+    "produceIdol": "園田智代子",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "園田智代子"
+    ],
+    "links": {
+      "twitter": "https://x.com/kanikou_7"
+    },
+    "space": "ウ-07"
+  },
+  {
+    "id": 58,
+    "name": "怪文書部ラジオ",
+    "penName": "ぺぺ",
+    "produceIdol": "小宮果穂",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "小宮果穂",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "twitter": "https://x.com/Shiny5th"
+    },
+    "space": "ウ-21"
+  },
+  {
+    "id": 59,
+    "name": "Cow, Etc.",
+    "penName": "花初そたい",
+    "produceIdol": "園田智代子",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "園田智代子"
+    ],
+    "links": {
+      "other": "https://hanasome-sotai.com",
+      "twitter": "https://x.com/hanasome_sotai"
+    },
+    "space": "ウ-04"
+  },
+  {
+    "id": 60,
+    "name": "かきあげホカホカPiano",
+    "penName": "かきあげ",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/Kaki_Age16"
+    },
+    "space": "ケ-26"
+  },
+  {
+    "id": 61,
+    "name": "KAKUREG4",
+    "penName": "れがるん",
+    "produceIdol": "三峰結華",
+    "unit": "アンティーカ",
+    "characters": [
+      "三峰結華",
+      "櫻木真乃",
+      "白瀬咲耶",
+      "田中摩美々"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/34281279",
+      "twitter": "https://x.com/reg4lun"
+    },
+    "space": "ア-32"
+  },
+  {
+    "id": 62,
+    "name": "カザミトグラ",
+    "penName": "風見鳥",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "樋口円香",
+      "福丸小糸",
+      "市川雛菜"
+    ],
+    "links": {},
+    "space": "オ-23"
+  },
+  {
+    "id": 63,
+    "name": "風見鶏",
+    "penName": "風見真中",
+    "produceIdol": "小宮果穂",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "小宮果穂",
+      "園田智代子",
+      "西城樹里",
+      "杜野凛世",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/55282689",
+      "twitter": "https://x.com/kazami_1019_"
+    },
+    "space": "ウ-22"
+  },
+  {
+    "id": 64,
+    "name": "ガパオ☆パラダイス",
+    "penName": "瀬鬼",
+    "produceIdol": "白瀬咲耶",
+    "unit": "アンティーカ",
+    "characters": [
+      "白瀬咲耶"
+    ],
+    "links": {
+      "twitter": "https://x.com/seki_seki_san"
+    },
+    "space": "ア-42"
+  },
+  {
+    "id": 65,
+    "name": "カフェイン中毒。",
+    "penName": "ひかり しきちゃん",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか"
+    ],
+    "links": {
+      "twitter": "https://x.com/matsuhikari283"
+    },
+    "space": "キ-23"
+  },
+  {
+    "id": 66,
+    "name": "がらくたクラブ",
+    "penName": "よいぼし",
+    "produceIdol": "小宮果穂",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "小宮果穂",
+      "園田智代子",
+      "西城樹里",
+      "杜野凛世",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/95187875",
+      "twitter": "https://x.com/kiraboshi6051_8"
+    },
+    "space": "ウ-20"
+  },
+  {
+    "id": 67,
+    "name": "カラストーン",
+    "penName": "さくらもち",
+    "produceIdol": "風野灯織",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "風野灯織"
+    ],
+    "links": {},
+    "space": "ア-09"
+  },
+  {
+    "id": 68,
+    "name": "貴族会",
+    "penName": "ぺこ",
+    "produceIdol": "桑山千雪",
+    "unit": "アルストロメリア",
+    "characters": [
+      "桑山千雪"
+    ],
+    "links": {
+      "twitter": "https://x.com/sayapeco38"
+    },
+    "space": "エ-17"
+  },
+  {
+    "id": 69,
+    "name": "キノコの森",
+    "penName": "森キノコ",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子",
+      "芹沢あさひ",
+      "斑鳩ルカ"
+    ],
+    "links": {
+      "other": "https://morikinoko8888link.wixsite.com/link/snslink",
+      "twitter": "https://x.com/morikinoko8888"
+    },
+    "space": "エ-35"
+  },
+  {
+    "id": 70,
+    "name": "キュケオーン屋さん",
+    "penName": "はちしげ",
+    "produceIdol": "緋田美琴",
+    "unit": "シーズ",
+    "characters": [
+      "緋田美琴",
+      "七草はづき",
+      "七草にちか",
+      "鈴木羽那",
+      "郁田はるき"
+    ],
+    "links": {
+      "other": "https://hachishige.booth.pm/",
+      "twitter": "https://x.com/the_8975"
+    },
+    "space": "キ-03"
+  },
+  {
+    "id": 71,
+    "name": "京大SC同",
+    "penName": "はたの",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "鈴木羽那",
+      "郁田はるき",
+      "桑山千雪"
+    ],
+    "links": {
+      "twitter": "https://x.com/kyodai_sc"
+    },
+    "space": "ク-10"
+  },
+  {
+    "id": 72,
+    "name": "きりかぶ3丁目",
+    "penName": "シズハラ",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき"
+    ],
+    "links": {},
+    "space": "ケ-22"
+  },
+  {
+    "id": 73,
+    "name": "QuantumDevice",
+    "penName": "ゼロきち",
+    "produceIdol": "杜野凛世",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "杜野凛世",
+      "桑山千雪",
+      "七草はづき"
+    ],
+    "links": {
+      "pixiv": "http://www.pixiv.net/member.php?id=1803206",
+      "twitter": "https://x.com/rm_zero_kichi"
+    },
+    "space": "ウ-25"
+  },
+  {
+    "id": 74,
+    "name": "くだもの座",
+    "penName": "鬼谷",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/oniya_otaku"
+    },
+    "space": "ア-50"
+  },
+  {
+    "id": 75,
+    "name": "くまとひなたぼっこ",
+    "penName": "實くまー",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/Otokomaeda42P"
+    },
+    "space": "ケ-27"
+  },
+  {
+    "id": 76,
+    "name": "ぐれいわーくす",
+    "penName": "いわもん",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子",
+      "大崎甜花",
+      "鈴木羽那",
+      "園田智代子",
+      "七草にちか"
+    ],
+    "links": {
+      "twitter": "https://x.com/iwamon_ink"
+    },
+    "space": "エ-25"
+  },
+  {
+    "id": 77,
+    "name": "クロノナンバーズ",
+    "penName": "ジキ",
+    "produceIdol": "大崎甜花",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甜花",
+      "大崎甘奈",
+      "桑山千雪"
+    ],
+    "links": {
+      "twitter": "https://x.com/jibojiki"
+    },
+    "space": "ウ-33"
+  },
+  {
+    "id": 78,
+    "name": "けちゃどんち",
+    "penName": "けちゃどん",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子"
+    ],
+    "links": {
+      "other": "https://ketyadonn.com/",
+      "twitter": "https://x.com/ketyadonn"
+    },
+    "space": "エ-22"
+  },
+  {
+    "id": 79,
+    "name": "月光博物館",
+    "penName": "泡沫実践",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "三峰結華"
+    ],
+    "links": {
+      "twitter": "https://x.com/utktanata"
+    },
+    "space": "ク-05"
+  },
+  {
+    "id": 80,
+    "name": "麹ーコーナー横浜マリネリア店",
+    "penName": "夏麹",
+    "produceIdol": "三峰結華",
+    "unit": "アンティーカ",
+    "characters": [
+      "三峰結華"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/5543390",
+      "twitter": "https://x.com/kanshyou"
+    },
+    "space": "ア-37"
+  },
+  {
+    "id": 81,
+    "name": "ごう一人旅",
+    "penName": "ごう",
+    "produceIdol": "郁田はるき",
+    "unit": "コメティック",
+    "characters": [
+      "郁田はるき"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/11917750",
+      "twitter": "https://x.com/go_travelalone"
+    },
+    "space": "ク-27"
+  },
+  {
+    "id": 82,
+    "name": "コーヒー飲んでぽんぺ部",
+    "penName": "キット",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸"
+    ],
+    "links": {
+      "other": "https://kitp.booth.pm/",
+      "twitter": "https://x.com/KITp_"
+    },
+    "space": "カ-15"
+  },
+  {
+    "id": 83,
+    "name": "こずいし",
+    "penName": "井藤",
+    "produceIdol": "郁田はるき",
+    "unit": "コメティック",
+    "characters": [
+      "郁田はるき",
+      "七草はづき",
+      "鈴木羽那"
+    ],
+    "links": {
+      "twitter": "https://x.com/06itou30"
+    },
+    "space": "ク-28"
+  },
+  {
+    "id": 84,
+    "name": "ことばのすいそう",
+    "penName": "きみかげ",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸"
+    ],
+    "links": {
+      "twitter": "https://x.com/banana_zarigani"
+    },
+    "space": "カ-17"
+  },
+  {
+    "id": 85,
+    "name": "琥珀屋",
+    "penName": "虚月",
+    "produceIdol": "杜野凛世",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "杜野凛世",
+      "浅倉透",
+      "白瀬咲耶",
+      "福丸小糸",
+      "風野灯織"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/10672339",
+      "twitter": "https://x.com/LLTW_charge"
+    },
+    "space": "ウ-31"
+  },
+  {
+    "id": 86,
+    "name": "湖畔屋さん",
+    "penName": "みずうみ",
+    "produceIdol": "郁田はるき",
+    "unit": "コメティック",
+    "characters": [
+      "郁田はるき",
+      "緋田美琴"
+    ],
+    "links": {
+      "twitter": "https://x.com/mizumi_243"
+    },
+    "space": "ケ-04"
+  },
+  {
+    "id": 87,
+    "name": "ごまだれまみれ",
+    "penName": "胡麻はむ",
+    "produceIdol": "八宮めぐる",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "八宮めぐる",
+      "櫻木真乃",
+      "小宮果穂",
+      "市川雛菜",
+      "風野灯織"
+    ],
+    "links": {
+      "other": "https://fori.io/hmgmdr86",
+      "twitter": "https://x.com/gmdr_86"
+    },
+    "space": "ア-21"
+  },
+  {
+    "id": 88,
+    "name": "コマ投げの猿",
+    "penName": "きゅうを",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "櫻木真乃"
+    ],
+    "links": {
+      "twitter": "https://x.com/kyuuwo"
+    },
+    "space": "ア-47"
+  },
+  {
+    "id": 89,
+    "name": "サークル竹夜青",
+    "penName": "竹夜青",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子",
+      "芹沢あさひ",
+      "斑鳩ルカ",
+      "樋口円香",
+      "浅倉透"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/15442081",
+      "twitter": "https://x.com/takeya_913"
+    },
+    "space": "エ-34"
+  },
+  {
+    "id": 90,
+    "name": "surface tremble",
+    "penName": "水面ルリ",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "櫻木真乃",
+      "田中摩美々",
+      "白瀬咲耶",
+      "月岡恋鐘"
+    ],
+    "links": {
+      "pixiv": "http://www.pixiv.net/member.php?id=2839405",
+      "twitter": "https://x.com/minamoruri"
+    },
+    "space": "イ-08"
+  },
+  {
+    "id": 91,
+    "name": "さくらだぺんぎん堂",
+    "penName": "ぺんたごん",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸",
+      "桑山千雪",
+      "園田智代子",
+      "杜野凛世",
+      "風野灯織"
+    ],
+    "links": {
+      "other": "https://lit.link/pentagonpensou",
+      "twitter": "https://x.com/penkoma_kabosu"
+    },
+    "space": "カ-18"
+  },
+  {
+    "id": 92,
+    "name": "桜でんぶ",
+    "penName": "大葉",
+    "produceIdol": "芹沢あさひ",
+    "unit": "ストレイライト",
+    "characters": [
+      "芹沢あさひ",
+      "七草はづき",
+      "桑山千雪",
+      "黛冬優子",
+      "斑鳩ルカ"
+    ],
+    "links": {
+      "other": "https://natchanpuru.booth.pm/",
+      "twitter": "https://x.com/okeanosu_vassal"
+    },
+    "space": "オ-05"
+  },
+  {
+    "id": 93,
+    "name": "刺身事務所",
+    "penName": "宮ノ下",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/17076196",
+      "twitter": "https://x.com/miyata_ta_tan"
+    },
+    "space": "ケ-39"
+  },
+  {
+    "id": 94,
+    "name": "さにーうぇざー",
+    "penName": "リョウガ",
+    "produceIdol": "小宮果穂",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "小宮果穂",
+      "八宮めぐる",
+      "芹沢あさひ",
+      "浅倉透"
+    ],
+    "links": {
+      "twitter": "https://x.com/ryoga_kk"
+    },
+    "space": "ク-03"
+  },
+  {
+    "id": 95,
+    "name": "さんかくシベリヤ",
+    "penName": "あずき",
+    "produceIdol": "園田智代子",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "園田智代子",
+      "小宮果穂",
+      "西城樹里",
+      "杜野凛世",
+      "有栖川夏葉"
+    ],
+    "links": {},
+    "space": "ウ-05"
+  },
+  {
+    "id": 96,
+    "name": "sanzuiya",
+    "penName": "にりかわ",
+    "produceIdol": "風野灯織",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "風野灯織",
+      "七草はづき"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/35419"
+    },
+    "space": "ア-10"
+  },
+  {
+    "id": 97,
+    "name": "zealfahren",
+    "penName": "ぺりけ",
+    "produceIdol": "風野灯織",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "風野灯織"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/414674",
+      "twitter": "https://x.com/perique_zero"
+    },
+    "space": "ア-16"
+  },
+  {
+    "id": 98,
+    "name": "Scene07",
+    "penName": "若葉たてちか",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子"
+    ],
+    "links": {
+      "twitter": "https://x.com/tatechika_dnyu"
+    },
+    "space": "イ-07"
+  },
+  {
+    "id": 99,
+    "name": "謝々廣場",
+    "penName": "ひろば",
+    "produceIdol": "芹沢あさひ",
+    "unit": "ストレイライト",
+    "characters": [
+      "芹沢あさひ"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/51066798",
+      "twitter": "https://x.com/thanks_agora"
+    },
+    "space": "オ-10"
+  },
+  {
+    "id": 100,
+    "name": "しちみうどん",
+    "penName": "こたつ",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/kotu049"
+    },
+    "space": "イ-27"
+  },
+  {
+    "id": 101,
+    "name": "しばまるむすび",
+    "penName": "ずんだしば",
+    "produceIdol": "鈴木羽那",
+    "unit": "コメティック",
+    "characters": [
+      "鈴木羽那",
+      "七草はづき",
+      "郁田はるき"
+    ],
+    "links": {
+      "twitter": "https://x.com/zundasiba8"
+    },
+    "space": "ケ-06"
+  },
+  {
+    "id": 102,
+    "name": "Gypsophila",
+    "penName": "篠川明",
+    "produceIdol": "桑山千雪",
+    "unit": "アルストロメリア",
+    "characters": [
+      "桑山千雪"
+    ],
+    "links": {
+      "twitter": "https://x.com/Gyp_Kasumisou"
+    },
+    "space": "エ-11"
+  },
+  {
+    "id": 103,
+    "name": "shinylabo",
+    "penName": "shinylabo研究員",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "小宮果穂"
+    ],
+    "links": {
+      "twitter": "https://x.com/shinylabo283"
+    },
+    "space": "キ-22"
+  },
+  {
+    "id": 104,
+    "name": "社長室のモグラ",
+    "penName": "中ボス",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/tyuboss0"
+    },
+    "space": "ケ-31"
+  },
+  {
+    "id": 105,
+    "name": "シャニマス概念写真部",
+    "penName": "M.C.O",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/gMuChi_O60"
+    },
+    "space": "ケ-25"
+  },
+  {
+    "id": 106,
+    "name": "シャニマス料理部",
+    "penName": "旨味",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき",
+      "七草にちか",
+      "桑山千雪",
+      "風野灯織",
+      "杜野凛世"
+    ],
+    "links": {
+      "twitter": "https://x.com/aminoscience2"
+    },
+    "space": "ケ-33"
+  },
+  {
+    "id": 107,
+    "name": "shamosigure",
+    "penName": "軍鶏",
+    "produceIdol": "八宮めぐる",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "八宮めぐる",
+      "櫻木真乃",
+      "小宮果穂",
+      "市川雛菜"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/11681740",
+      "twitter": "https://x.com/mikamihoP"
+    },
+    "space": "ア-24"
+  },
+  {
+    "id": 108,
+    "name": "シュークリームパン酵母",
+    "penName": "ねむしゅ",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子",
+      "大崎甜花",
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/NemuShu1013"
+    },
+    "space": "エ-28"
+  },
+  {
+    "id": 109,
+    "name": "SugarMilk",
+    "penName": "夜空柴",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "田中摩美々",
+      "櫻木真乃",
+      "白瀬咲耶",
+      "月岡恋鐘"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/36392337",
+      "twitter": "https://x.com/yozorasiba"
+    },
+    "space": "ア-54"
+  },
+  {
+    "id": 110,
+    "name": "縮毛の呪い",
+    "penName": "ハリガネ毛",
+    "produceIdol": "樋口円香",
+    "unit": "ノクチル",
+    "characters": [
+      "樋口円香",
+      "杜野凛世",
+      "鈴木羽那"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/5494301",
+      "twitter": "https://x.com/auauaaa__"
+    },
+    "space": "カ-05"
+  },
+  {
+    "id": 111,
+    "name": "しゅとれんわーくす",
+    "penName": "ぱら / たまも丸",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "緋田美琴"
+    ],
+    "links": {},
+    "space": "キ-09"
+  },
+  {
+    "id": 112,
+    "name": "衝動型慢性嗜好品",
+    "penName": "期間限定",
+    "produceIdol": "郁田はるき",
+    "unit": "コメティック",
+    "characters": [
+      "郁田はるき",
+      "七草はづき",
+      "鈴木羽那"
+    ],
+    "links": {
+      "other": "https://lit.link/kikangentei44",
+      "twitter": "https://x.com/kikangentei44"
+    },
+    "space": "ケ-01"
+  },
+  {
+    "id": 113,
+    "name": "じょーじすぴるばーぐ",
+    "penName": "梶原一郎",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "桑山千雪",
+      "福丸小糸"
+    ],
+    "links": {
+      "twitter": "https://x.com/robosuretaroji_"
+    },
+    "space": "オ-22"
+  },
+  {
+    "id": 114,
+    "name": "触手義弟",
+    "penName": "億劫太郎",
+    "produceIdol": "小宮果穂",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "小宮果穂",
+      "芹沢あさひ"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/35547443",
+      "twitter": "https://x.com/okutanro"
+    },
+    "space": "ウ-23"
+  },
+  {
+    "id": 115,
+    "name": "白桜透",
+    "penName": "ugauga",
+    "produceIdol": "白瀬咲耶",
+    "unit": "アンティーカ",
+    "characters": [
+      "白瀬咲耶",
+      "櫻木真乃",
+      "三峰結華"
+    ],
+    "links": {
+      "twitter": "https://x.com/ugauga327"
+    },
+    "space": "ア-43"
+  },
+  {
+    "id": 116,
+    "name": "白見大福の里",
+    "penName": "ほわそ",
+    "produceIdol": "杜野凛世",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "杜野凛世",
+      "小宮果穂",
+      "園田智代子",
+      "西城樹里",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "pixiv": "http://www.pixiv.net/member.php?id=2649140",
+      "twitter": "https://x.com/Howaso623"
+    },
+    "space": "ウ-28"
+  },
+  {
+    "id": 117,
+    "name": "しんおんリポジトリ",
+    "penName": "如月心音",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸",
+      "市川雛菜",
+      "浅倉透",
+      "樋口円香",
+      "芹沢あさひ",
+      "黛冬優子"
+    ],
+    "links": {
+      "twitter": "https://x.com/kokone_1204"
+    },
+    "space": "カ-14"
+  },
+  {
+    "id": 118,
+    "name": "真偽不明",
+    "penName": "真偽",
+    "produceIdol": "大崎甘奈",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甘奈",
+      "大崎甜花",
+      "桑山千雪"
+    ],
+    "links": {
+      "twitter": "https://x.com/truth_fakesingi"
+    },
+    "space": "エ-07"
+  },
+  {
+    "id": 119,
+    "name": "水槽の家",
+    "penName": "タァコイズ",
+    "produceIdol": "鈴木羽那",
+    "unit": "コメティック",
+    "characters": [
+      "鈴木羽那",
+      "浅倉透",
+      "風野灯織"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/40440714",
+      "twitter": "https://x.com/turquoise_ss"
+    },
+    "space": "ケ-09"
+  },
+  {
+    "id": 120,
+    "name": "水没都市",
+    "penName": "こるむ",
+    "produceIdol": "樋口円香",
+    "unit": "ノクチル",
+    "characters": [
+      "樋口円香",
+      "大崎甘奈",
+      "大崎甜花"
+    ],
+    "links": {
+      "other": "https://linktr.ee/korumu",
+      "twitter": "https://x.com/korumuab"
+    },
+    "space": "カ-04"
+  },
+  {
+    "id": 121,
+    "name": "睡眠学習同好会",
+    "penName": "火野太郎",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "鈴木羽那"
+    ],
+    "links": {
+      "twitter": "https://x.com/rideryumi"
+    },
+    "space": "キ-20"
+  },
+  {
+    "id": 122,
+    "name": "助九",
+    "penName": "てぃえくす（寺尾駅員室P）/きなこもちばうむP",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき",
+      "桑山千雪",
+      "八宮めぐる"
+    ],
+    "links": {
+      "other": "https://sukekyu.booth.pm/",
+      "twitter": "https://x.com/txpres"
+    },
+    "space": "ケ-28"
+  },
+  {
+    "id": 123,
+    "name": "すけぴりうむ",
+    "penName": "くまの実",
+    "produceIdol": "小宮果穂",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "小宮果穂",
+      "芹沢あさひ",
+      "八宮めぐる",
+      "福丸小糸"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/30628011",
+      "twitter": "https://x.com/kumanomi_sab05"
+    },
+    "space": "ウ-24"
+  },
+  {
+    "id": 124,
+    "name": "Sukotabe",
+    "penName": "今川ダビデ",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか"
+    ],
+    "links": {
+      "twitter": "https://x.com/DabideMoai"
+    },
+    "space": "キ-19"
+  },
+  {
+    "id": 125,
+    "name": "鈴木第一小隊",
+    "penName": "すずき",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸",
+      "七草にちか"
+    ],
+    "links": {
+      "twitter": "https://x.com/kgyk_n_kwr"
+    },
+    "space": "カ-23"
+  },
+  {
+    "id": 126,
+    "name": "SUZUKI旅団",
+    "penName": "ベルリオーズ",
+    "produceIdol": "鈴木羽那",
+    "unit": "コメティック",
+    "characters": [
+      "鈴木羽那",
+      "市川雛菜",
+      "黛冬優子"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/46151141",
+      "twitter": "https://x.com/mo6L3aTFSAqpODq"
+    },
+    "space": "ケ-13"
+  },
+  {
+    "id": 127,
+    "name": "すずしろ畑",
+    "penName": "すずろ",
+    "produceIdol": "櫻木真乃",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "櫻木真乃",
+      "風野灯織",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/43576407",
+      "twitter": "https://x.com/trdr_suzuro"
+    },
+    "space": "ア-05"
+  },
+  {
+    "id": 128,
+    "name": "star Kzer",
+    "penName": "霧崎",
+    "produceIdol": "大崎甜花",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甜花",
+      "大崎甘奈"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/1275602",
+      "twitter": "https://x.com/star_Kzer"
+    },
+    "space": "ウ-34"
+  },
+  {
+    "id": 129,
+    "name": "すとらんど",
+    "penName": "とらんど",
+    "produceIdol": "杜野凛世",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "杜野凛世"
+    ],
+    "links": {
+      "twitter": "https://x.com/tland_p"
+    },
+    "space": "ウ-29"
+  },
+  {
+    "id": 130,
+    "name": "SPECOLA",
+    "penName": "310",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "黛冬優子",
+      "鈴木羽那",
+      "園田智代子",
+      "大崎甜花",
+      "櫻木真乃"
+    ],
+    "links": {
+      "twitter": "https://x.com/_typ310"
+    },
+    "space": "キ-14"
+  },
+  {
+    "id": 131,
+    "name": "スヤリガスミ",
+    "penName": "SUYA",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸"
+    ],
+    "links": {
+      "twitter": "https://x.com/xxsuya"
+    },
+    "space": "カ-16"
+  },
+  {
+    "id": 132,
+    "name": "すりぃだぁす",
+    "penName": "かいらぎ",
+    "produceIdol": "有栖川夏葉",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "有栖川夏葉"
+    ],
+    "links": {
+      "twitter": "https://x.com/Natsuha_cute"
+    },
+    "space": "ウ-17"
+  },
+  {
+    "id": 133,
+    "name": "するめそーめん",
+    "penName": "でぃあす",
+    "produceIdol": "緋田美琴",
+    "unit": "シーズ",
+    "characters": [
+      "緋田美琴"
+    ],
+    "links": {
+      "twitter": "https://x.com/dias5520"
+    },
+    "space": "キ-02"
+  },
+  {
+    "id": 134,
+    "name": "精霊銀",
+    "penName": "アンネ／apricotsister",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透"
+    ],
+    "links": {
+      "other": "https://lit.link/apricotsister",
+      "twitter": "https://x.com/apricotsister"
+    },
+    "space": "オ-17"
+  },
+  {
+    "id": 135,
+    "name": "全マシ",
+    "penName": "マッシ",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "緋田美琴",
+      "田中摩美々",
+      "白瀬咲耶"
+    ],
+    "links": {
+      "other": "https://lit.link/massi087",
+      "twitter": "https://x.com/Massi_Massi087"
+    },
+    "space": "ク-11"
+  },
+  {
+    "id": 136,
+    "name": "そばかふぇ",
+    "penName": "そばかわ",
+    "produceIdol": "大崎甘奈",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甘奈",
+      "大崎甜花",
+      "桑山千雪",
+      "七草はづき",
+      "鈴木羽那",
+      "郁田はるき"
+    ],
+    "links": {
+      "other": "https://sobakwan.booth.pm/",
+      "twitter": "https://x.com/sobakawan"
+    },
+    "space": "エ-09"
+  },
+  {
+    "id": 137,
+    "name": "体系漢文",
+    "penName": "空は青いな",
+    "produceIdol": "樋口円香",
+    "unit": "ノクチル",
+    "characters": [
+      "樋口円香"
+    ],
+    "links": {
+      "twitter": "https://x.com/sorahaaoi7"
+    },
+    "space": "カ-11"
+  },
+  {
+    "id": 138,
+    "name": "大衆酒場原始人",
+    "penName": "サルーシ",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "櫻木真乃"
+    ],
+    "links": {
+      "pixiv": "https://pixiv.me/saruhitolucy",
+      "twitter": "https://x.com/saruhitolucy"
+    },
+    "space": "キ-18"
+  },
+  {
+    "id": 139,
+    "name": "だがしふぁくとりー",
+    "penName": "品質向上",
+    "produceIdol": "市川雛菜",
+    "unit": "ノクチル",
+    "characters": [
+      "市川雛菜"
+    ],
+    "links": {
+      "twitter": "https://x.com/vanity__vanity"
+    },
+    "space": "カ-35"
+  },
+  {
+    "id": 140,
+    "name": "たかはし精肉店",
+    "penName": "ウロボロス高橋",
+    "produceIdol": "桑山千雪",
+    "unit": "アルストロメリア",
+    "characters": [
+      "桑山千雪"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/30966395",
+      "twitter": "https://x.com/uroboros_t"
+    },
+    "space": "エ-20"
+  },
+  {
+    "id": 141,
+    "name": "蛸餓鬼",
+    "penName": "じんちょーげP",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "小宮果穂",
+      "芹沢あさひ",
+      "七草にちか",
+      "有栖川夏葉",
+      "西城樹里"
+    ],
+    "links": {
+      "twitter": "https://x.com/KahoKaho283"
+    },
+    "space": "ク-15"
+  },
+  {
+    "id": 142,
+    "name": "taji-taji",
+    "penName": "たじ",
+    "produceIdol": "芹沢あさひ",
+    "unit": "ストレイライト",
+    "characters": [
+      "芹沢あさひ"
+    ],
+    "links": {
+      "twitter": "https://x.com/tajitajitaji"
+    },
+    "space": "オ-08"
+  },
+  {
+    "id": 143,
+    "name": "ダスキイスノウ",
+    "penName": "雪花",
+    "produceIdol": "杜野凛世",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "杜野凛世",
+      "田中摩美々",
+      "芹沢あさひ"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/36785916",
+      "twitter": "https://x.com/flos_yuki"
+    },
+    "space": "ウ-30"
+  },
+  {
+    "id": 144,
+    "name": "谷底牧場",
+    "penName": "ビーフ谷底",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "櫻木真乃",
+      "緋田美琴"
+    ],
+    "links": {
+      "twitter": "https://x.com/beeftanizoko"
+    },
+    "space": "キ-13"
+  },
+  {
+    "id": 145,
+    "name": "たのん社",
+    "penName": "さえき",
+    "produceIdol": "和泉愛依",
+    "unit": "ストレイライト",
+    "characters": [
+      "和泉愛依",
+      "風野灯織",
+      "浅倉透",
+      "有栖川夏葉",
+      "田中摩美々"
+    ],
+    "links": {
+      "other": "https://lit.link/3aek1x",
+      "twitter": "https://x.com/3aek1x"
+    },
+    "space": "オ-01"
+  },
+  {
+    "id": 146,
+    "name": "たまも屋",
+    "penName": "てんま",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "樋口円香"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/2386753",
+      "twitter": "https://x.com/uropenzetubou"
+    },
+    "space": "オ-20"
+  },
+  {
+    "id": 147,
+    "name": "TOWER19",
+    "penName": "アナグマ",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "七草にちか"
+    ],
+    "links": {
+      "other": "https://linktr.ee/anaguma201",
+      "twitter": "https://x.com/MK_201"
+    },
+    "space": "ク-13"
+  },
+  {
+    "id": 148,
+    "name": "炭酸豆乳パイン",
+    "penName": "toufu",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "樋口円香",
+      "福丸小糸",
+      "市川雛菜"
+    ],
+    "links": {
+      "twitter": "https://x.com/kouyadoufuuuuu"
+    },
+    "space": "オ-27"
+  },
+  {
+    "id": 149,
+    "name": "たんばのにわ",
+    "penName": "丹波てむる",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "樋口円香"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/12765663",
+      "twitter": "https://x.com/tamba_niwa"
+    },
+    "space": "イ-02"
+  },
+  {
+    "id": 150,
+    "name": "暖炉のある家",
+    "penName": "清水暖炉",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "樋口円香",
+      "福丸小糸",
+      "市川雛菜"
+    ],
+    "links": {
+      "twitter": "https://x.com/stove_house"
+    },
+    "space": "オ-25"
+  },
+  {
+    "id": 151,
+    "name": "チューリップの湯",
+    "penName": "靄羽",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子"
+    ],
+    "links": {
+      "twitter": "https://x.com/moyaha_churip"
+    },
+    "space": "エ-26"
+  },
+  {
+    "id": 152,
+    "name": "チョコミン島",
+    "penName": "ぶっちい",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "樋口円香",
+      "福丸小糸",
+      "市川雛菜"
+    ],
+    "links": {
+      "twitter": "https://x.com/npinapi_"
+    },
+    "space": "カ-01"
+  },
+  {
+    "id": 153,
+    "name": "チワワの見世物小屋",
+    "penName": "ユカミソテ",
+    "produceIdol": "風野灯織",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "風野灯織",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "twitter": "https://x.com/yukamisote"
+    },
+    "space": "ア-18"
+  },
+  {
+    "id": 154,
+    "name": "月極モータープール",
+    "penName": "ナナヲナオ",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子"
+    ],
+    "links": {
+      "twitter": "https://x.com/nanawo_nao"
+    },
+    "space": "イ-03"
+  },
+  {
+    "id": 155,
+    "name": "つばさ学園生徒会執行部",
+    "penName": "ゼナ",
+    "produceIdol": "八宮めぐる",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "八宮めぐる",
+      "櫻木真乃",
+      "西城樹里",
+      "杜野凛世",
+      "桑山千雪"
+    ],
+    "links": {
+      "other": "https://shinyreco-web.pages.dev/",
+      "twitter": "https://x.com/Shiny_Reco"
+    },
+    "space": "ア-20"
+  },
+  {
+    "id": 156,
+    "name": "燕工房",
+    "penName": "Shimeno",
+    "produceIdol": "風野灯織",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "風野灯織",
+      "芹沢あさひ",
+      "浅倉透",
+      "七草にちか",
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/Shimeno283"
+    },
+    "space": "ア-40"
+  },
+  {
+    "id": 157,
+    "name": "DL600号事件",
+    "penName": "一個人",
+    "produceIdol": "櫻木真乃",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "櫻木真乃",
+      "風野灯織",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/31619656",
+      "twitter": "https://x.com/1_kozin"
+    },
+    "space": "ア-06"
+  },
+  {
+    "id": 158,
+    "name": "DayDreamer",
+    "penName": "KH02",
+    "produceIdol": "樋口円香",
+    "unit": "ノクチル",
+    "characters": [
+      "樋口円香",
+      "浅倉透",
+      "福丸小糸",
+      "市川雛菜"
+    ],
+    "links": {
+      "twitter": "https://x.com/Kh02Glhf"
+    },
+    "space": "カ-08"
+  },
+  {
+    "id": 159,
+    "name": "てくのろーぎあ",
+    "penName": "LOG-GEAR",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/gear_log"
+    },
+    "space": "ケ-19"
+  },
+  {
+    "id": 160,
+    "name": "デジタルマグロ大学",
+    "penName": "デューサ",
+    "produceIdol": "大崎甘奈",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甘奈"
+    ],
+    "links": {
+      "twitter": "https://x.com/k_roD_USA0532"
+    },
+    "space": "エ-06"
+  },
+  {
+    "id": 161,
+    "name": "テリー生存ルート",
+    "penName": "テリー・ロケッティア",
+    "produceIdol": "和泉愛依",
+    "unit": "ストレイライト",
+    "characters": [
+      "和泉愛依",
+      "芹沢あさひ",
+      "黛冬優子"
+    ],
+    "links": {
+      "twitter": "https://x.com/terryhumanoid"
+    },
+    "space": "オ-04"
+  },
+  {
+    "id": 162,
+    "name": "DELIRIUM",
+    "penName": "久保田平蔵",
+    "produceIdol": "鈴木羽那",
+    "unit": "コメティック",
+    "characters": [
+      "鈴木羽那",
+      "七草はづき",
+      "郁田はるき"
+    ],
+    "links": {},
+    "space": "ケ-10"
+  },
+  {
+    "id": 163,
+    "name": "でんせつのうどん",
+    "penName": "桐月レイカ",
+    "produceIdol": "大崎甘奈",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甘奈"
+    ],
+    "links": {},
+    "space": "エ-03"
+  },
+  {
+    "id": 164,
+    "name": "天店",
+    "penName": "天ちゃん",
+    "produceIdol": "大崎甘奈",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甘奈",
+      "大崎甜花",
+      "桑山千雪"
+    ],
+    "links": {
+      "twitter": "https://x.com/tenchan0715"
+    },
+    "space": "エ-05"
+  },
+  {
+    "id": 165,
+    "name": "でんどろびうむ",
+    "penName": "めだか先生",
+    "produceIdol": "白瀬咲耶",
+    "unit": "アンティーカ",
+    "characters": [
+      "白瀬咲耶",
+      "櫻木真乃",
+      "田中摩美々",
+      "月岡恋鐘",
+      "三峰結華"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/37657615",
+      "twitter": "https://x.com/medaka_teacher"
+    },
+    "space": "ア-44"
+  },
+  {
+    "id": 166,
+    "name": "電派絵師団",
+    "penName": "しろし",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子"
+    ],
+    "links": {
+      "twitter": "https://x.com/shirofox"
+    },
+    "space": "イ-01"
+  },
+  {
+    "id": 167,
+    "name": "豆乳牧場",
+    "penName": "しぼりかすこ",
+    "produceIdol": "西城樹里",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "西城樹里",
+      "園田智代子",
+      "杜野凛世",
+      "有栖川夏葉",
+      "小宮果穂"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/2141306",
+      "twitter": "https://x.com/miyama_kirazu"
+    },
+    "space": "イ-36"
+  },
+  {
+    "id": 168,
+    "name": "融けた金平糖",
+    "penName": "ヰ藤",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "三峰結華"
+    ],
+    "links": {
+      "twitter": "https://x.com/ito789ito"
+    },
+    "space": "イ-15"
+  },
+  {
+    "id": 169,
+    "name": "独居24合炊き",
+    "penName": "タシマ",
+    "produceIdol": "風野灯織",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "風野灯織",
+      "福丸小糸",
+      "黛冬優子",
+      "芹沢あさひ",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "twitter": "https://x.com/dokkyo24"
+    },
+    "space": "ア-13"
+  },
+  {
+    "id": 170,
+    "name": ".inv Records",
+    "penName": "侵略者",
+    "produceIdol": "西城樹里",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "西城樹里",
+      "七草はづき",
+      "田中摩美々"
+    ],
+    "links": {
+      "twitter": "https://x.com/gomieshizumu"
+    },
+    "space": "イ-31"
+  },
+  {
+    "id": 171,
+    "name": "Drag-On",
+    "penName": "鎌鼬",
+    "produceIdol": "大崎甘奈",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甘奈"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/138444",
+      "twitter": "https://x.com/kama_itachi"
+    },
+    "space": "エ-08"
+  },
+  {
+    "id": 172,
+    "name": "Dreamless Party",
+    "penName": "dreamer",
+    "produceIdol": "三峰結華",
+    "unit": "アンティーカ",
+    "characters": [
+      "三峰結華"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/105727913",
+      "twitter": "https://x.com/__dreamer283"
+    },
+    "space": "ア-34"
+  },
+  {
+    "id": 173,
+    "name": "Tresyete",
+    "penName": "凩 燦",
+    "produceIdol": "白瀬咲耶",
+    "unit": "アンティーカ",
+    "characters": [
+      "白瀬咲耶",
+      "大崎甘奈"
+    ],
+    "links": {},
+    "space": "ア-39"
+  },
+  {
+    "id": 174,
+    "name": "ドレッド食堂",
+    "penName": "しょーりんP",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "西城樹里"
+    ],
+    "links": {
+      "twitter": "https://x.com/shourin_rider"
+    },
+    "space": "イ-05"
+  },
+  {
+    "id": 175,
+    "name": "どんどこ妄言パーリナイ",
+    "penName": "むろうちは",
+    "produceIdol": "和泉愛依",
+    "unit": "ストレイライト",
+    "characters": [
+      "和泉愛依",
+      "園田智代子"
+    ],
+    "links": {
+      "twitter": "https://x.com/muroutiha_P"
+    },
+    "space": "オ-03"
+  },
+  {
+    "id": 176,
+    "name": "ナス天メロン",
+    "penName": "アリアンナ十三",
+    "produceIdol": "芹沢あさひ",
+    "unit": "ストレイライト",
+    "characters": [
+      "芹沢あさひ",
+      "黛冬優子",
+      "斑鳩ルカ",
+      "樋口円香",
+      "市川雛菜",
+      "桑山千雪"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/37316028",
+      "twitter": "https://x.com/Arianna___13"
+    },
+    "space": "オ-09"
+  },
+  {
+    "id": 177,
+    "name": "なすほーむ",
+    "penName": "なす",
+    "produceIdol": "有栖川夏葉",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "有栖川夏葉"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/5932201",
+      "twitter": "https://x.com/777nasu"
+    },
+    "space": "ウ-15"
+  },
+  {
+    "id": 178,
+    "name": "波打観測所",
+    "penName": "後藤",
+    "produceIdol": "櫻木真乃",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "櫻木真乃",
+      "風野灯織",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "twitter": "https://x.com/Goto_U_"
+    },
+    "space": "ア-01"
+  },
+  {
+    "id": 179,
+    "name": "水仙亭",
+    "penName": "俵田圭一",
+    "produceIdol": "八宮めぐる",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "八宮めぐる",
+      "風野灯織"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/3945484",
+      "twitter": "https://x.com/k919919"
+    },
+    "space": "ア-23"
+  },
+  {
+    "id": 180,
+    "name": "西電車輌",
+    "penName": "にしでん",
+    "produceIdol": "郁田はるき",
+    "unit": "コメティック",
+    "characters": [
+      "郁田はるき",
+      "鈴木羽那"
+    ],
+    "links": {
+      "other": "https://nishidensharyo.booth.pm/",
+      "twitter": "https://x.com/n1k3_a_nsdn"
+    },
+    "space": "ク-22"
+  },
+  {
+    "id": 181,
+    "name": "ニトーヘン",
+    "penName": "繰るしみ",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "浅倉透",
+      "田中摩美々"
+    ],
+    "links": {
+      "twitter": "https://x.com/kuru_simi"
+    },
+    "space": "イ-09"
+  },
+  {
+    "id": 182,
+    "name": "２３６キロメートル",
+    "penName": "J@Q",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/JP_SOSA236"
+    },
+    "space": "ケ-23"
+  },
+  {
+    "id": 183,
+    "name": "にわとり小屋",
+    "penName": "戸坂",
+    "produceIdol": "郁田はるき",
+    "unit": "コメティック",
+    "characters": [
+      "郁田はるき",
+      "七草はづき",
+      "鈴木羽那",
+      "七草にちか",
+      "緋田美琴"
+    ],
+    "links": {
+      "twitter": "https://x.com/Tosagon42"
+    },
+    "space": "ク-26"
+  },
+  {
+    "id": 184,
+    "name": "nui x atelier",
+    "penName": "まめ",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子"
+    ],
+    "links": {},
+    "space": "イ-11"
+  },
+  {
+    "id": 185,
+    "name": "布の家",
+    "penName": "むーんらいと",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/5076",
+      "twitter": "https://x.com/moonlight00"
+    },
+    "space": "エ-21"
+  },
+  {
+    "id": 186,
+    "name": "ぬるまゆのみや",
+    "penName": "Miya",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "櫻木真乃",
+      "白瀬咲耶",
+      "田中摩美々",
+      "月岡恋鐘"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/15693606",
+      "twitter": "https://x.com/Miya05846545"
+    },
+    "space": "イ-10"
+  },
+  {
+    "id": 187,
+    "name": "猫いてる処",
+    "penName": "46",
+    "produceIdol": "西城樹里",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "西城樹里",
+      "杜野凛世",
+      "白瀬咲耶",
+      "櫻木真乃",
+      "桑山千雪",
+      "鈴木羽那"
+    ],
+    "links": {
+      "twitter": "https://x.com/4646ymym"
+    },
+    "space": "ウ-12"
+  },
+  {
+    "id": 188,
+    "name": "猫サブレ",
+    "penName": "桜木らいあ",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "緋田美琴",
+      "田中摩美々",
+      "大崎甜花",
+      "鈴木羽那",
+      "郁田はるき"
+    ],
+    "links": {
+      "twitter": "https://x.com/pz_raia"
+    },
+    "space": "ク-19"
+  },
+  {
+    "id": 189,
+    "name": "ネムラナイ",
+    "penName": "はねむらはねみ",
+    "produceIdol": "樋口円香",
+    "unit": "ノクチル",
+    "characters": [
+      "樋口円香"
+    ],
+    "links": {
+      "other": "https://xfolio.jp/portfolio/hanemura",
+      "twitter": "https://x.com/hanemura"
+    },
+    "space": "カ-02"
+  },
+  {
+    "id": 190,
+    "name": "練り物工場",
+    "penName": "竹輪",
+    "produceIdol": "櫻木真乃",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "櫻木真乃",
+      "浅倉透",
+      "杜野凛世",
+      "小宮果穂"
+    ],
+    "links": {
+      "twitter": "https://x.com/chikuwa2014"
+    },
+    "space": "ア-08"
+  },
+  {
+    "id": 191,
+    "name": "NobolyStyle",
+    "penName": "さけがり",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "櫻木真乃",
+      "白瀬咲耶",
+      "田中摩美々",
+      "月岡恋鐘"
+    ],
+    "links": {
+      "twitter": "https://x.com/skgrntc1997"
+    },
+    "space": "イ-06"
+  },
+  {
+    "id": 192,
+    "name": "ののみやのサークル",
+    "penName": "ののみや",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "緋田美琴",
+      "鈴木羽那",
+      "郁田はるき"
+    ],
+    "links": {
+      "twitter": "https://x.com/miyakononomiya"
+    },
+    "space": "キ-11"
+  },
+  {
+    "id": 193,
+    "name": "Nomina Satanae",
+    "penName": "暮れなずむ化膿",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "緋田美琴"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/100995576",
+      "twitter": "https://x.com/mawasitesinu"
+    },
+    "space": "ク-09"
+  },
+  {
+    "id": 194,
+    "name": "BarT.J.L",
+    "penName": "Shugo Amamiya",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "櫻木真乃",
+      "白瀬咲耶",
+      "月岡恋鐘",
+      "三峰結華"
+    ],
+    "links": {
+      "other": "https://bartjl.booth.pm/",
+      "twitter": "https://x.com/Lip_ton_milk"
+    },
+    "space": "イ-20"
+  },
+  {
+    "id": 195,
+    "name": "パーラーもげっと",
+    "penName": "もげっと",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "月岡恋鐘",
+      "七草はづき",
+      "郁田はるき"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/119475",
+      "twitter": "https://x.com/gckrBkp77xUuY7z"
+    },
+    "space": "イ-25"
+  },
+  {
+    "id": 196,
+    "name": "ハイパー銭湯",
+    "penName": "こむおじ",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "七草にちか",
+      "緋田美琴"
+    ],
+    "links": {
+      "twitter": "https://x.com/COM6"
+    },
+    "space": "ク-18"
+  },
+  {
+    "id": 197,
+    "name": "バイブスホールディングス",
+    "penName": "万手観音 lapis 市ヶ谷ちるる",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "田中摩美々",
+      "八宮めぐる",
+      "黛冬優子",
+      "緋田美琴"
+    ],
+    "links": {
+      "twitter": "https://x.com/pokka0801"
+    },
+    "space": "ク-01"
+  },
+  {
+    "id": 198,
+    "name": "powder.room",
+    "penName": "ぱうだー",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子",
+      "芹沢あさひ",
+      "斑鳩ルカ"
+    ],
+    "links": {
+      "twitter": "https://x.com/powder_is_kona"
+    },
+    "space": "エ-30"
+  },
+  {
+    "id": 199,
+    "name": "箱庭創藝舎",
+    "penName": "葉庭颯",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "緋田美琴"
+    ],
+    "links": {
+      "twitter": "https://x.com/haniwa_hayate"
+    },
+    "space": "キ-08"
+  },
+  {
+    "id": 200,
+    "name": "ばじりすく亭",
+    "penName": "バジリスクこなみ",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき",
+      "緋田美琴",
+      "芹沢あさひ",
+      "郁田はるき",
+      "鈴木羽那"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/65324587",
+      "twitter": "https://x.com/basilisk_konami"
+    },
+    "space": "ケ-29"
+  },
+  {
+    "id": 201,
+    "name": "はちゅぱ堂",
+    "penName": "はちゅぱーど",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/73183897",
+      "twitter": "https://x.com/reprep_795"
+    },
+    "space": "イ-29"
+  },
+  {
+    "id": 202,
+    "name": "8krpm",
+    "penName": "甘木くるみ",
+    "produceIdol": "月岡恋鐘",
+    "unit": "アンティーカ",
+    "characters": [
+      "月岡恋鐘",
+      "三峰結華",
+      "白瀬咲耶"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/29741",
+      "twitter": "https://x.com/peconin"
+    },
+    "space": "ア-27"
+  },
+  {
+    "id": 203,
+    "name": "八方美人",
+    "penName": "みみくちおう",
+    "produceIdol": "園田智代子",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "園田智代子",
+      "小宮果穂",
+      "西城樹里",
+      "杜野凛世",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/110989759",
+      "twitter": "https://x.com/mimikuchiou390"
+    },
+    "space": "ウ-08"
+  },
+  {
+    "id": 204,
+    "name": "はと小屋。",
+    "penName": "すいっち",
+    "produceIdol": "櫻木真乃",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "櫻木真乃",
+      "園田智代子",
+      "福丸小糸"
+    ],
+    "links": {
+      "twitter": "https://x.com/kidoswitch"
+    },
+    "space": "ア-07"
+  },
+  {
+    "id": 205,
+    "name": "BANANA UDON",
+    "penName": "くしゃっぴ",
+    "produceIdol": "三峰結華",
+    "unit": "アンティーカ",
+    "characters": [
+      "三峰結華",
+      "七草はづき",
+      "緋田美琴"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/4709804",
+      "twitter": "https://x.com/Rumba_i"
+    },
+    "space": "ア-38"
+  },
+  {
+    "id": 206,
+    "name": "ハナモノヤ",
+    "penName": "花森梨花",
+    "produceIdol": "八宮めぐる",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "八宮めぐる",
+      "市川雛菜",
+      "小宮果穂",
+      "櫻木真乃"
+    ],
+    "links": {
+      "twitter": "https://x.com/mori___39"
+    },
+    "space": "ア-25"
+  },
+  {
+    "id": 207,
+    "name": "バニースクエア",
+    "penName": "とがたなぎ",
+    "produceIdol": "三峰結華",
+    "unit": "アンティーカ",
+    "characters": [
+      "三峰結華"
+    ],
+    "links": {
+      "other": "https://bunnysquear.booth.pm/",
+      "twitter": "https://x.com/tgata_nagi"
+    },
+    "space": "ア-36"
+  },
+  {
+    "id": 208,
+    "name": "はひふ",
+    "penName": "りんごうさぎ",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子",
+      "市川雛菜",
+      "鈴木羽那"
+    ],
+    "links": {
+      "twitter": "https://x.com/Ringo_usagi15"
+    },
+    "space": "エ-29"
+  },
+  {
+    "id": 209,
+    "name": "はやぶさ堂",
+    "penName": "shungao",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸",
+      "市川雛菜",
+      "浅倉透",
+      "樋口円香",
+      "八宮めぐる"
+    ],
+    "links": {
+      "twitter": "https://x.com/shungao13"
+    },
+    "space": "カ-22"
+  },
+  {
+    "id": 210,
+    "name": "春雨通信",
+    "penName": "しんび",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "月岡恋鐘"
+    ],
+    "links": {
+      "twitter": "https://x.com/clavitia626"
+    },
+    "space": "イ-28"
+  },
+  {
+    "id": 211,
+    "name": "晴れ時々犬",
+    "penName": "rei",
+    "produceIdol": "風野灯織",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "風野灯織",
+      "有栖川夏葉",
+      "八宮めぐる"
+    ],
+    "links": {},
+    "space": "ア-17"
+  },
+  {
+    "id": 212,
+    "name": "P⇒Q",
+    "penName": "ゴートほか",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき"
+    ],
+    "links": {
+      "other": "https://pnrbq.org/",
+      "twitter": "https://x.com/P_nrb_Q"
+    },
+    "space": "ケ-17"
+  },
+  {
+    "id": 213,
+    "name": "びーふしちゅーDON",
+    "penName": "テツテツ",
+    "produceIdol": "郁田はるき",
+    "unit": "コメティック",
+    "characters": [
+      "郁田はるき"
+    ],
+    "links": {
+      "twitter": "https://x.com/tetutetu0259"
+    },
+    "space": "ク-23"
+  },
+  {
+    "id": 214,
+    "name": "びう丼屋",
+    "penName": "こゆびう丼",
+    "produceIdol": "風野灯織",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "風野灯織",
+      "八宮めぐる",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/10275404",
+      "twitter": "https://x.com/ikapeace04"
+    },
+    "space": "ア-11"
+  },
+  {
+    "id": 215,
+    "name": "ひおひおだいすき大外刈り",
+    "penName": "きゆみ",
+    "produceIdol": "風野灯織",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "風野灯織"
+    ],
+    "links": {
+      "twitter": "https://x.com/plmoknijb6570"
+    },
+    "space": "ア-19"
+  },
+  {
+    "id": 216,
+    "name": "東岡崎養豚場",
+    "penName": "疑似餌",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/89070700",
+      "twitter": "https://x.com/gze_mgmg"
+    },
+    "space": "ク-07"
+  },
+  {
+    "id": 217,
+    "name": "ぴざぱんけぇき通り",
+    "penName": "綴茶",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか"
+    ],
+    "links": {
+      "twitter": "https://x.com/tsuzuricha"
+    },
+    "space": "キ-21"
+  },
+  {
+    "id": 218,
+    "name": "The Vision of DemonLord",
+    "penName": "DemonLord",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "鈴木羽那",
+      "郁田はるき"
+    ],
+    "links": {
+      "twitter": "https://x.com/amtrsgmaou"
+    },
+    "space": "ク-12"
+  },
+  {
+    "id": 219,
+    "name": "ひぢりや",
+    "penName": "サブレ",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき",
+      "西城樹里",
+      "八宮めぐる"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/474364",
+      "twitter": "https://x.com/sablesakusaku"
+    },
+    "space": "ケ-21"
+  },
+  {
+    "id": 220,
+    "name": "羊の仕立て屋",
+    "penName": "シープ",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子"
+    ],
+    "links": {
+      "twitter": "https://x.com/yShinySheepP"
+    },
+    "space": "イ-12"
+  },
+  {
+    "id": 221,
+    "name": "ひややっこ堂",
+    "penName": "きぬひや",
+    "produceIdol": "市川雛菜",
+    "unit": "ノクチル",
+    "characters": [
+      "市川雛菜",
+      "福丸小糸",
+      "大崎甘奈"
+    ],
+    "links": {
+      "twitter": "https://x.com/ki_nu_uu"
+    },
+    "space": "カ-36"
+  },
+  {
+    "id": 222,
+    "name": "ひらめイカイカ本舗-にぎりずシティ・握ルヤ-",
+    "penName": "にぎりずし",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき",
+      "白瀬咲耶",
+      "櫻木真乃"
+    ],
+    "links": {
+      "twitter": "https://x.com/sushi_IMS"
+    },
+    "space": "ケ-24"
+  },
+  {
+    "id": 223,
+    "name": "ファロッファ粉々",
+    "penName": "チェスバ",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/83244146"
+    },
+    "space": "ア-48"
+  },
+  {
+    "id": 224,
+    "name": "fantasy bonx2",
+    "penName": "木ぎ",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "樋口円香"
+    ],
+    "links": {
+      "other": "https://fantasybonx2.booth.pm/",
+      "twitter": "https://x.com/purple_bonX2"
+    },
+    "space": "イ-24"
+  },
+  {
+    "id": 225,
+    "name": "風船工房",
+    "penName": "奉還",
+    "produceIdol": "西城樹里",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "西城樹里",
+      "園田智代子"
+    ],
+    "links": {
+      "twitter": "https://x.com/HOKAN_YP"
+    },
+    "space": "イ-32"
+  },
+  {
+    "id": 226,
+    "name": "フクロウナギ",
+    "penName": "フクロウナギ",
+    "produceIdol": "杜野凛世",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "杜野凛世",
+      "西城樹里"
+    ],
+    "links": {
+      "twitter": "https://x.com/apupuna1"
+    },
+    "space": "ウ-32"
+  },
+  {
+    "id": 227,
+    "name": "ふたばプランター",
+    "penName": "めちゃ",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "三峰結華"
+    ],
+    "links": {
+      "twitter": "https://x.com/kiri_meee"
+    },
+    "space": "オ-32"
+  },
+  {
+    "id": 228,
+    "name": "ふみんゆうきゅう",
+    "penName": "みふねふみ",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "三峰結華",
+      "白瀬咲耶",
+      "櫻木真乃",
+      "月岡恋鐘"
+    ],
+    "links": {
+      "twitter": "https://x.com/mifunefumi"
+    },
+    "space": "イ-19"
+  },
+  {
+    "id": 229,
+    "name": "PLANT",
+    "penName": "鶴井",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/62367",
+      "twitter": "https://x.com/renshuushiro"
+    },
+    "space": "キ-16"
+  },
+  {
+    "id": 230,
+    "name": "フランネル202",
+    "penName": "おくら",
+    "produceIdol": "小宮果穂",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "小宮果穂"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/136753",
+      "twitter": "https://x.com/_turkey7"
+    },
+    "space": "ウ-19"
+  },
+  {
+    "id": 231,
+    "name": "フリーウェイト",
+    "penName": "紳士ロードランナー",
+    "produceIdol": "有栖川夏葉",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "有栖川夏葉"
+    ],
+    "links": {
+      "twitter": "https://x.com/becausenazenara"
+    },
+    "space": "ウ-16"
+  },
+  {
+    "id": 232,
+    "name": "Blooming Camellia",
+    "penName": "天乃羽月",
+    "produceIdol": "桑山千雪",
+    "unit": "アルストロメリア",
+    "characters": [
+      "桑山千雪",
+      "七草はづき"
+    ],
+    "links": {
+      "pixiv": "http://pixiv.me/tsubaki_0913",
+      "twitter": "https://x.com/Camellia_90"
+    },
+    "space": "エ-14"
+  },
+  {
+    "id": 233,
+    "name": "ふるせるふ",
+    "penName": "でらせるふ",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子",
+      "鈴木羽那"
+    ],
+    "links": {
+      "other": "https://deraself.booth.pm/",
+      "twitter": "https://x.com/dera_self"
+    },
+    "space": "エ-23"
+  },
+  {
+    "id": 234,
+    "name": "プレクトラム推進協議会",
+    "penName": "ジョンケリー",
+    "produceIdol": "郁田はるき",
+    "unit": "コメティック",
+    "characters": [
+      "郁田はるき",
+      "浅倉透",
+      "樋口円香",
+      "福丸小糸",
+      "市川雛菜"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/2810943",
+      "twitter": "https://x.com/nabem8981"
+    },
+    "space": "ク-20"
+  },
+  {
+    "id": 235,
+    "name": "Precious Lily",
+    "penName": "平屋芝",
+    "produceIdol": "櫻木真乃",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "櫻木真乃",
+      "風野灯織",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "twitter": "https://x.com/hiraya_shiba"
+    },
+    "space": "ア-04"
+  },
+  {
+    "id": 236,
+    "name": "PETALS",
+    "penName": "ASTI",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "鈴木羽那"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/2014365",
+      "twitter": "https://x.com/ASTI_1019"
+    },
+    "space": "ア-46"
+  },
+  {
+    "id": 237,
+    "name": "べてた屋",
+    "penName": "テツ",
+    "produceIdol": "市川雛菜",
+    "unit": "ノクチル",
+    "characters": [
+      "市川雛菜",
+      "樋口円香",
+      "浅倉透",
+      "福丸小糸"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/98587767",
+      "twitter": "https://x.com/tetsu_akari"
+    },
+    "space": "カ-34"
+  },
+  {
+    "id": 238,
+    "name": "ヘル地獄",
+    "penName": "デビルアクマ",
+    "produceIdol": "和泉愛依",
+    "unit": "ストレイライト",
+    "characters": [
+      "和泉愛依",
+      "黛冬優子",
+      "芹沢あさひ"
+    ],
+    "links": {
+      "twitter": "https://x.com/a9m_"
+    },
+    "space": "ア-26"
+  },
+  {
+    "id": 239,
+    "name": "ヘルベチカステランダード",
+    "penName": "かすてら",
+    "produceIdol": "大崎甜花",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甜花",
+      "大崎甘奈"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/14089993",
+      "twitter": "https://x.com/Ksterawaseaten"
+    },
+    "space": "エ-02"
+  },
+  {
+    "id": 240,
+    "name": "bellまーく",
+    "penName": "まなベル",
+    "produceIdol": "緋田美琴",
+    "unit": "シーズ",
+    "characters": [
+      "緋田美琴",
+      "七草にちか",
+      "八宮めぐる",
+      "風野灯織",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "twitter": "https://x.com/ma7bell"
+    },
+    "space": "キ-01"
+  },
+  {
+    "id": 241,
+    "name": "ぺろりんちょカーニバル",
+    "penName": "バイオなまこ",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "田中摩美々"
+    ],
+    "links": {
+      "twitter": "https://x.com/stimulatory2222"
+    },
+    "space": "ア-53"
+  },
+  {
+    "id": 242,
+    "name": "ぽいすぽっと",
+    "penName": "シャフォ",
+    "produceIdol": "市川雛菜",
+    "unit": "ノクチル",
+    "characters": [
+      "市川雛菜",
+      "樋口円香"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/4539434",
+      "twitter": "https://x.com/shuffle39"
+    },
+    "space": "カ-31"
+  },
+  {
+    "id": 243,
+    "name": "冒涜的カレーライ数",
+    "penName": "無理数",
+    "produceIdol": "西城樹里",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "西城樹里",
+      "小宮果穂",
+      "園田智代子",
+      "杜野凛世",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "twitter": "https://x.com/murisuu_yaha"
+    },
+    "space": "イ-35"
+  },
+  {
+    "id": 244,
+    "name": "ほーかご亭",
+    "penName": "NicoPieee",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/114855026",
+      "twitter": "https://x.com/mocomocopieee"
+    },
+    "space": "オ-15"
+  },
+  {
+    "id": 245,
+    "name": "HoShiKaRaSu",
+    "penName": "ほしのりゅう",
+    "produceIdol": "風野灯織",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "風野灯織",
+      "八宮めぐる",
+      "有栖川夏葉",
+      "小宮果穂",
+      "大崎甘奈"
+    ],
+    "links": {
+      "twitter": "https://x.com/starrykarasu"
+    },
+    "space": "ア-15"
+  },
+  {
+    "id": 246,
+    "name": "星の使徒",
+    "penName": "ななちせ7",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "樋口円香",
+      "福丸小糸",
+      "市川雛菜",
+      "三峰結華"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/3017049",
+      "twitter": "https://x.com/nanatise7"
+    },
+    "space": "オ-18"
+  },
+  {
+    "id": 247,
+    "name": "ほっかい魚",
+    "penName": "ほっぽい",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "鈴木羽那"
+    ],
+    "links": {
+      "twitter": "https://x.com/Hop_Poi"
+    },
+    "space": "ク-08"
+  },
+  {
+    "id": 248,
+    "name": "ポテトルドン",
+    "penName": "あくだ",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "七草にちか",
+      "浅倉透",
+      "樋口円香",
+      "郁田はるき",
+      "緋田美琴"
+    ],
+    "links": {
+      "twitter": "https://x.com/Waruipotato"
+    },
+    "space": "ク-17"
+  },
+  {
+    "id": 249,
+    "name": "麻婆炒飯",
+    "penName": "水餃子",
+    "produceIdol": "芹沢あさひ",
+    "unit": "ストレイライト",
+    "characters": [
+      "芹沢あさひ",
+      "小宮果穂",
+      "黛冬優子",
+      "斑鳩ルカ"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/67629342",
+      "twitter": "https://x.com/mizu_gyoza"
+    },
+    "space": "オ-11"
+  },
+  {
+    "id": 250,
+    "name": "my little sister",
+    "penName": "たにけい",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子",
+      "七草にちか",
+      "風野灯織",
+      "斑鳩ルカ",
+      "園田智代子"
+    ],
+    "links": {
+      "other": "http://tanikei.web.fc2.com/",
+      "twitter": "https://x.com/tanikei_civic"
+    },
+    "space": "エ-27"
+  },
+  {
+    "id": 251,
+    "name": "マカマカ屋",
+    "penName": "maka",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "大崎甘奈",
+      "大崎甜花",
+      "桑山千雪"
+    ],
+    "links": {
+      "twitter": "https://x.com/rakugaki0108"
+    },
+    "space": "イ-22"
+  },
+  {
+    "id": 252,
+    "name": "マグマエスカルゴ大飯店",
+    "penName": "ろーずか",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸",
+      "芹沢あさひ",
+      "三峰結華"
+    ],
+    "links": {
+      "twitter": "https://x.com/universalcom_p2"
+    },
+    "space": "カ-20"
+  },
+  {
+    "id": 253,
+    "name": "雅田電工",
+    "penName": "まさだまさし",
+    "produceIdol": "桑山千雪",
+    "unit": "アルストロメリア",
+    "characters": [
+      "桑山千雪",
+      "大崎甘奈",
+      "大崎甜花"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/19004305",
+      "twitter": "https://x.com/Magpul_RR"
+    },
+    "space": "エ-12"
+  },
+  {
+    "id": 254,
+    "name": "升亭一門会",
+    "penName": "紫緑",
+    "produceIdol": "鈴木羽那",
+    "unit": "コメティック",
+    "characters": [
+      "鈴木羽那",
+      "郁田はるき"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/53110602",
+      "twitter": "https://x.com/enishi910"
+    },
+    "space": "ケ-20"
+  },
+  {
+    "id": 255,
+    "name": "またたび",
+    "penName": "かささび",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子"
+    ],
+    "links": {
+      "twitter": "https://x.com/kasasabineng"
+    },
+    "space": "イ-13"
+  },
+  {
+    "id": 256,
+    "name": "街角の鳥影",
+    "penName": "チェスト",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "三峰結華"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/3242219/novels",
+      "twitter": "https://x.com/yhb81"
+    },
+    "space": "キ-26"
+  },
+  {
+    "id": 257,
+    "name": "真夜中餃子房",
+    "penName": "マヨナカ",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき",
+      "芹沢あさひ",
+      "七草にちか",
+      "櫻木真乃",
+      "郁田はるき"
+    ],
+    "links": {
+      "twitter": "https://x.com/mayonaka_9"
+    },
+    "space": "ケ-35"
+  },
+  {
+    "id": 258,
+    "name": "まる事務所",
+    "penName": "々（まる）",
+    "produceIdol": "鈴木羽那",
+    "unit": "コメティック",
+    "characters": [
+      "鈴木羽那",
+      "七草にちか",
+      "黛冬優子",
+      "大崎甜花",
+      "園田智代子"
+    ],
+    "links": {
+      "other": "https://ggsc.booth.pm",
+      "twitter": "https://x.com/__scgg__"
+    },
+    "space": "ケ-07"
+  },
+  {
+    "id": 259,
+    "name": "まわるおすしやさん",
+    "penName": "無添加おすし",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "樋口円香"
+    ],
+    "links": {
+      "other": "https://mutenka-osushi.booth.pm/",
+      "twitter": "https://x.com/mutenka_osushi_"
+    },
+    "space": "オ-14"
+  },
+  {
+    "id": 260,
+    "name": "マンモス広場",
+    "penName": "桃もみじ",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/TMNG014"
+    },
+    "space": "ケ-37"
+  },
+  {
+    "id": 261,
+    "name": "みぃるくてぃえんじぇる",
+    "penName": "みぃえる",
+    "produceIdol": "園田智代子",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "園田智代子",
+      "西城樹里",
+      "七草はづき",
+      "八宮めぐる"
+    ],
+    "links": {
+      "other": "https://milkteaangel.booth.pm/",
+      "twitter": "https://x.com/milktea_new"
+    },
+    "space": "ウ-06"
+  },
+  {
+    "id": 262,
+    "name": "みかん箱の外",
+    "penName": "こだお",
+    "produceIdol": "郁田はるき",
+    "unit": "コメティック",
+    "characters": [
+      "郁田はるき",
+      "七草はづき",
+      "鈴木羽那"
+    ],
+    "links": {
+      "twitter": "https://x.com/sutetenaide"
+    },
+    "space": "ケ-02"
+  },
+  {
+    "id": 263,
+    "name": "mist valley",
+    "penName": "霧谷",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子"
+    ],
+    "links": {
+      "twitter": "https://x.com/TongZi5434"
+    },
+    "space": "ア-49"
+  },
+  {
+    "id": 264,
+    "name": "味噌煮込みチャーハン",
+    "penName": "内田ピカ",
+    "produceIdol": "緋田美琴",
+    "unit": "シーズ",
+    "characters": [
+      "緋田美琴",
+      "八宮めぐる",
+      "大崎甜花",
+      "樋口円香"
+    ],
+    "links": {
+      "twitter": "https://x.com/uchida_pika"
+    },
+    "space": "キ-04"
+  },
+  {
+    "id": 265,
+    "name": "みとられ図",
+    "penName": "深虎なお",
+    "produceIdol": "樋口円香",
+    "unit": "ノクチル",
+    "characters": [
+      "樋口円香"
+    ],
+    "links": {
+      "twitter": "https://x.com/mitoranao"
+    },
+    "space": "カ-12"
+  },
+  {
+    "id": 266,
+    "name": "Milotot",
+    "penName": "mimoe",
+    "produceIdol": "斑鳩ルカ",
+    "unit": "コメティック",
+    "characters": [
+      "斑鳩ルカ",
+      "緋田美琴",
+      "七草にちか",
+      "鈴木羽那",
+      "郁田はるき"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/31807019",
+      "twitter": "https://x.com/milotot_"
+    },
+    "space": "キ-28"
+  },
+  {
+    "id": 267,
+    "name": "むいむい病院",
+    "penName": "安斎夢唯",
+    "produceIdol": "風野灯織",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "風野灯織",
+      "田中摩美々"
+    ],
+    "links": {
+      "other": "https://pont.co/u/poison2mui",
+      "twitter": "https://x.com/poison2mui"
+    },
+    "space": "エ-18"
+  },
+  {
+    "id": 268,
+    "name": "無限猫大陸",
+    "penName": "リタ。",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "樋口円香",
+      "福丸小糸",
+      "市川雛菜"
+    ],
+    "links": {
+      "pixiv": "http://pixiv.me/rita000",
+      "twitter": "https://x.com/worldillia5499"
+    },
+    "space": "オ-30"
+  },
+  {
+    "id": 269,
+    "name": "霧散デンドロビウム",
+    "penName": "霧香",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/kirika9696"
+    },
+    "space": "ケ-36"
+  },
+  {
+    "id": 270,
+    "name": "むしむし大福パラダイス",
+    "penName": "芳田",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "緋田美琴",
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/yoshi360sc"
+    },
+    "space": "キ-27"
+  },
+  {
+    "id": 271,
+    "name": "無糖紅茶",
+    "penName": "ひさみ",
+    "produceIdol": "鈴木羽那",
+    "unit": "コメティック",
+    "characters": [
+      "鈴木羽那",
+      "七草はづき",
+      "郁田はるき"
+    ],
+    "links": {
+      "twitter": "https://x.com/hisamishiny"
+    },
+    "space": "ケ-08"
+  },
+  {
+    "id": 272,
+    "name": "メカトル時空探検隊",
+    "penName": "トミー",
+    "produceIdol": "園田智代子",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "園田智代子",
+      "西城樹里"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/73597051",
+      "twitter": "https://x.com/Totototommy_t0m"
+    },
+    "space": "ウ-01"
+  },
+  {
+    "id": 273,
+    "name": "眼鏡牧場",
+    "penName": "あいばん",
+    "produceIdol": "桑山千雪",
+    "unit": "アルストロメリア",
+    "characters": [
+      "桑山千雪",
+      "櫻木真乃"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/6307980",
+      "twitter": "https://x.com/aiban97"
+    },
+    "space": "エ-16"
+  },
+  {
+    "id": 274,
+    "name": "メメント・ふゆひこ",
+    "penName": "ぜうろ",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/105769366",
+      "twitter": "https://x.com/zeuro_kou"
+    },
+    "space": "ア-31"
+  },
+  {
+    "id": 275,
+    "name": "メルタクスゼイアン",
+    "penName": "melmel",
+    "produceIdol": "市川雛菜",
+    "unit": "ノクチル",
+    "characters": [
+      "市川雛菜",
+      "福丸小糸",
+      "田中摩美々",
+      "西城樹里"
+    ],
+    "links": {
+      "twitter": "https://x.com/melmelooo2"
+    },
+    "space": "カ-32"
+  },
+  {
+    "id": 276,
+    "name": "妄幻郷",
+    "penName": "猫田",
+    "produceIdol": "西城樹里",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "西城樹里",
+      "園田智代子"
+    ],
+    "links": {
+      "twitter": "https://x.com/8270_necota"
+    },
+    "space": "イ-33"
+  },
+  {
+    "id": 277,
+    "name": "もくもくハンモック",
+    "penName": "もくめ",
+    "produceIdol": "大崎甜花",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甜花"
+    ],
+    "links": {
+      "twitter": "https://x.com/uranama95"
+    },
+    "space": "ウ-36"
+  },
+  {
+    "id": 278,
+    "name": "モザイク友の会",
+    "penName": "匿名希望",
+    "produceIdol": "芹沢あさひ",
+    "unit": "ストレイライト",
+    "characters": [
+      "芹沢あさひ",
+      "黛冬優子"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/8743482",
+      "twitter": "https://x.com/mozaikutomono"
+    },
+    "space": "オ-07"
+  },
+  {
+    "id": 279,
+    "name": "摩登Sunshine",
+    "penName": "直立行走",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透"
+    ],
+    "links": {
+      "twitter": "https://x.com/WalkingBoring"
+    },
+    "space": "オ-16"
+  },
+  {
+    "id": 280,
+    "name": "もちもちからあげ屋",
+    "penName": "うやみの",
+    "produceIdol": "三峰結華",
+    "unit": "アンティーカ",
+    "characters": [
+      "三峰結華"
+    ],
+    "links": {
+      "twitter": "https://x.com/hamu2_46"
+    },
+    "space": "ア-33"
+  },
+  {
+    "id": 281,
+    "name": "MOTTO2",
+    "penName": "MotoCap",
+    "produceIdol": "三峰結華",
+    "unit": "アンティーカ",
+    "characters": [
+      "三峰結華",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "twitter": "https://x.com/moto_captank"
+    },
+    "space": "ア-35"
+  },
+  {
+    "id": 282,
+    "name": "元ペット不可物件",
+    "penName": "犬飼真下",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "福丸小糸"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/60179063",
+      "twitter": "https://x.com/inukaetawa"
+    },
+    "space": "イ-23"
+  },
+  {
+    "id": 283,
+    "name": "monimoni new",
+    "penName": "さな",
+    "produceIdol": "桑山千雪",
+    "unit": "アルストロメリア",
+    "characters": [
+      "桑山千雪"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/14120410",
+      "twitter": "https://x.com/CKP_meu85"
+    },
+    "space": "エ-19"
+  },
+  {
+    "id": 284,
+    "name": "モンターニュ",
+    "penName": "やま",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸",
+      "市川雛菜"
+    ],
+    "links": {
+      "twitter": "https://x.com/oekaki71500"
+    },
+    "space": "カ-24"
+  },
+  {
+    "id": 285,
+    "name": "焼きたてジャマイカ",
+    "penName": "周一色",
+    "produceIdol": "園田智代子",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "園田智代子"
+    ],
+    "links": {
+      "other": "https://yakitatejamaica.booth.pm",
+      "twitter": "https://x.com/ykttJAM"
+    },
+    "space": "ウ-09"
+  },
+  {
+    "id": 286,
+    "name": "ヤドカリブルース",
+    "penName": "沼のツナ三郎",
+    "produceIdol": "市川雛菜",
+    "unit": "ノクチル",
+    "characters": [
+      "市川雛菜",
+      "福丸小糸",
+      "樋口円香",
+      "浅倉透"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/3177745",
+      "twitter": "https://x.com/sakanashoshock"
+    },
+    "space": "カ-33"
+  },
+  {
+    "id": 287,
+    "name": "YAHA〜RECORDS",
+    "penName": "よマ",
+    "produceIdol": "七草にちか",
+    "unit": "シーズ",
+    "characters": [
+      "七草にちか",
+      "緋田美琴",
+      "七草はづき"
+    ],
+    "links": {
+      "twitter": "https://x.com/syaniozi_clove"
+    },
+    "space": "キ-10"
+  },
+  {
+    "id": 288,
+    "name": "山の桜",
+    "penName": "耶馬野桜",
+    "produceIdol": "七草はづき",
+    "unit": "シーズ",
+    "characters": [
+      "七草はづき",
+      "郁田はるき",
+      "園田智代子"
+    ],
+    "links": {
+      "other": "https://yamanosakura.booth.pm/",
+      "twitter": "https://x.com/yama_to_sakura"
+    },
+    "space": "ケ-38"
+  },
+  {
+    "id": 289,
+    "name": "山盛りグラタン二人前",
+    "penName": "ぐらぐら幽霊",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "福丸小糸",
+      "市川雛菜",
+      "小宮果穂",
+      "白瀬咲耶"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/2610536",
+      "twitter": "https://x.com/guraguraghost"
+    },
+    "space": "オ-21"
+  },
+  {
+    "id": 290,
+    "name": "ゆうれい屋敷",
+    "penName": "すかいだよ",
+    "produceIdol": "芹沢あさひ",
+    "unit": "ストレイライト",
+    "characters": [
+      "芹沢あさひ",
+      "斑鳩ルカ",
+      "黛冬優子"
+    ],
+    "links": {
+      "twitter": "https://x.com/SKY_dayo"
+    },
+    "space": "オ-13"
+  },
+  {
+    "id": 291,
+    "name": "ユキドケキツネ",
+    "penName": "ノモタケ",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸",
+      "市川雛菜",
+      "浅倉透",
+      "樋口円香"
+    ],
+    "links": {
+      "other": "https://nomoretake.booth.pm/",
+      "twitter": "https://x.com/T_tastuta"
+    },
+    "space": "カ-25"
+  },
+  {
+    "id": 292,
+    "name": "ゆメーター上昇中",
+    "penName": "れいな",
+    "produceIdol": "樋口円香",
+    "unit": "ノクチル",
+    "characters": [
+      "樋口円香",
+      "浅倉透"
+    ],
+    "links": {
+      "twitter": "https://x.com/shiny_reina47"
+    },
+    "space": "カ-09"
+  },
+  {
+    "id": 293,
+    "name": "夛喰餃子飯店",
+    "penName": "ヨタ",
+    "produceIdol": "風野灯織",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "風野灯織",
+      "郁田はるき"
+    ],
+    "links": {
+      "other": "https://note.com/yotawokuuinu",
+      "twitter": "https://x.com/yotagui"
+    },
+    "space": "ア-14"
+  },
+  {
+    "id": 294,
+    "name": "夜更けのBEAT",
+    "penName": "ヒース",
+    "produceIdol": "浅倉透",
+    "unit": "ノクチル",
+    "characters": [
+      "浅倉透",
+      "樋口円香",
+      "福丸小糸"
+    ],
+    "links": {
+      "twitter": "https://x.com/Hirose_dtoc"
+    },
+    "space": "オ-26"
+  },
+  {
+    "id": 295,
+    "name": "403号室",
+    "penName": "よみ",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "七草にちか",
+      "田中摩美々"
+    ],
+    "links": {
+      "twitter": "https://x.com/yomi3434"
+    },
+    "space": "イ-04"
+  },
+  {
+    "id": 296,
+    "name": "403ForbiddenParadice",
+    "penName": "石塔乱紙",
+    "produceIdol": "樋口円香",
+    "unit": "ノクチル",
+    "characters": [
+      "樋口円香",
+      "浅倉透"
+    ],
+    "links": {
+      "twitter": "https://x.com/rainbow_ra_ow"
+    },
+    "space": "カ-03"
+  },
+  {
+    "id": 297,
+    "name": "ライス定食",
+    "penName": "御鷹",
+    "produceIdol": "桑山千雪",
+    "unit": "アルストロメリア",
+    "characters": [
+      "桑山千雪",
+      "大崎甘奈",
+      "大崎甜花"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/14510519",
+      "twitter": "https://x.com/onoderice"
+    },
+    "space": "エ-15"
+  },
+  {
+    "id": 298,
+    "name": "LIME&MINT",
+    "penName": "マスター白河",
+    "produceIdol": "園田智代子",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "園田智代子"
+    ],
+    "links": {
+      "twitter": "https://x.com/limeandmintdojn"
+    },
+    "space": "ウ-10"
+  },
+  {
+    "id": 299,
+    "name": "Round X",
+    "penName": "846",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々",
+      "月岡恋鐘"
+    ],
+    "links": {
+      "other": "https://lit.link/846yuriaka",
+      "twitter": "https://x.com/846yuriaka"
+    },
+    "space": "イ-26"
+  },
+  {
+    "id": 300,
+    "name": "ラクチフロラ",
+    "penName": "掛見",
+    "produceIdol": "樋口円香",
+    "unit": "ノクチル",
+    "characters": [
+      "樋口円香",
+      "浅倉透"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/92128774",
+      "twitter": "https://x.com/Kakemi_33"
+    },
+    "space": "カ-10"
+  },
+  {
+    "id": 301,
+    "name": "リコリスキャンディ",
+    "penName": "黒甘",
+    "produceIdol": "大崎甘奈",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甘奈"
+    ],
+    "links": {
+      "twitter": "https://x.com/DeepSakana"
+    },
+    "space": "エ-10"
+  },
+  {
+    "id": 302,
+    "name": "L.M.N.L",
+    "penName": "迷迭香リカ",
+    "produceIdol": "幽谷霧子",
+    "unit": "アンティーカ",
+    "characters": [
+      "幽谷霧子",
+      "浅倉透",
+      "郁田はるき"
+    ],
+    "links": {
+      "twitter": "https://x.com/rosemarry_76"
+    },
+    "space": "ア-45"
+  },
+  {
+    "id": 303,
+    "name": "繚乱工房",
+    "penName": "どら猫",
+    "produceIdol": "園田智代子",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "園田智代子",
+      "西城樹里"
+    ],
+    "links": {
+      "twitter": "https://x.com/0319_doraneko"
+    },
+    "space": "ウ-02"
+  },
+  {
+    "id": 304,
+    "name": "りりまき堂",
+    "penName": "柏崎 凛々巻",
+    "produceIdol": "黛冬優子",
+    "unit": "ストレイライト",
+    "characters": [
+      "黛冬優子",
+      "斑鳩ルカ"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/68629174",
+      "twitter": "https://x.com/rrmk_lv7"
+    },
+    "space": "エ-32"
+  },
+  {
+    "id": 305,
+    "name": "りんごと角砂糖",
+    "penName": "あぷらーな",
+    "produceIdol": "田中摩美々",
+    "unit": "アンティーカ",
+    "characters": [
+      "田中摩美々"
+    ],
+    "links": {
+      "twitter": "https://x.com/AppRANA_"
+    },
+    "space": "イ-16"
+  },
+  {
+    "id": 306,
+    "name": "冷凍定規",
+    "penName": "伊藤",
+    "produceIdol": "櫻木真乃",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "櫻木真乃",
+      "風野灯織",
+      "有栖川夏葉",
+      "樋口円香"
+    ],
+    "links": {},
+    "space": "ア-02"
+  },
+  {
+    "id": 307,
+    "name": "レタスサラダ",
+    "penName": "カキシメジ",
+    "produceIdol": "福丸小糸",
+    "unit": "ノクチル",
+    "characters": [
+      "福丸小糸",
+      "市川雛菜",
+      "樋口円香",
+      "浅倉透"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/1057939",
+      "twitter": "https://x.com/shimeji_sk"
+    },
+    "space": "カ-28"
+  },
+  {
+    "id": 308,
+    "name": "我儘クリームソーダ",
+    "penName": "ちゃんみ",
+    "produceIdol": "市川雛菜",
+    "unit": "ノクチル",
+    "characters": [
+      "市川雛菜",
+      "樋口円香"
+    ],
+    "links": {},
+    "space": "カ-29"
+  },
+  {
+    "id": 309,
+    "name": "わさびづけ",
+    "penName": "いたわさ",
+    "produceIdol": "鈴木羽那",
+    "unit": "コメティック",
+    "characters": [
+      "鈴木羽那"
+    ],
+    "links": {
+      "twitter": "https://x.com/itws_a"
+    },
+    "space": "ケ-16"
+  },
+  {
+    "id": 310,
+    "name": "私立めんたいこ学園",
+    "penName": "めんた",
+    "produceIdol": "西城樹里",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "西城樹里",
+      "櫻木真乃",
+      "白瀬咲耶",
+      "杜野凛世",
+      "桑山千雪",
+      "鈴木羽那"
+    ],
+    "links": {
+      "twitter": "https://x.com/menta17724064"
+    },
+    "space": "ケ-34"
+  },
+  {
+    "id": 311,
+    "name": "わにわにぱにっく",
+    "penName": "わにたろー。",
+    "produceIdol": "大崎甜花",
+    "unit": "アルストロメリア",
+    "characters": [
+      "大崎甜花",
+      "黛冬優子",
+      "鈴木羽那",
+      "園田智代子",
+      "七草にちか"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/17224409",
+      "twitter": "https://x.com/wanitaro8888"
+    },
+    "space": "エ-01"
+  },
+  {
+    "id": 312,
+    "name": "ONE FOR SHINY",
+    "penName": "ヒナタハルヒ",
+    "produceIdol": "和泉愛依",
+    "unit": "ストレイライト",
+    "characters": [
+      "和泉愛依"
+    ],
+    "links": {
+      "twitter": "https://x.com/ikura1115Mitake"
+    },
+    "space": "オ-02"
+  },
+  {
+    "id": 313,
+    "name": "わんのっと",
+    "penName": "がっきー",
+    "produceIdol": "西城樹里",
+    "unit": "放課後クライマックスガールズ",
+    "characters": [
+      "西城樹里",
+      "小宮果穂",
+      "園田智代子",
+      "杜野凛世",
+      "有栖川夏葉"
+    ],
+    "links": {
+      "pixiv": "https://www.pixiv.net/users/4234758",
+      "twitter": "https://x.com/wan_722"
+    },
+    "space": "ウ-11"
+  },
+  {
+    "id": 314,
+    "name": "わんわんメロンパン",
+    "penName": "わんわんメロンパン",
+    "produceIdol": "櫻木真乃",
+    "unit": "イルミネーションスターズ",
+    "characters": [
+      "櫻木真乃",
+      "浅倉透",
+      "有栖川夏葉",
+      "風野灯織"
+    ],
+    "links": {
+      "twitter": "https://x.com/wanwanmelonpan"
+    },
+    "space": "ア-03"
+  }
+]
