@@ -85,7 +85,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-gray-50 pb-16">
       {tab === "map" ? (
-        <FloorMap circles={circles} bookmarks={bookmarks} />
+        <FloorMap circles={circles} bookmarks={bookmarks} onToggleBookmark={toggle} />
       ) : (
         <>
           <header className="sticky top-0 z-10 space-y-2 bg-gray-50 px-3 pt-3 pb-2 shadow-sm">
